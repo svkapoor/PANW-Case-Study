@@ -11,3 +11,4 @@ class JournalEntry:
             "text": self.text,
             "tag": self.tag,
         }
+
