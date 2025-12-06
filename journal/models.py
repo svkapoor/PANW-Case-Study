@@ -11,5 +11,6 @@ class JournalEntry:
         return {
             "text": self.text,
             "tag": self.tag,
+            "date": self.date,
         }
 
