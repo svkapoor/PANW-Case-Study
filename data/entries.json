@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "text": "My work is crushing me",
+    "tag": "slightly negative"
+  },
+  {
+    "text": "Im crushing my work",
+    "tag": "slightly negative"
+  },
+  {
+    "text": "Im so goated",
+    "tag": "neutral"
+  },
+  {
+    "text": "Im so happy",
+    "tag": "very positive"
+  }
+]

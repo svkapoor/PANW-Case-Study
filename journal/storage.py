@@ -33,3 +33,4 @@ def save_entry(entry_dict):
     # Write entire updated list back to the file
     with open(DATA_PATH, "w") as f:
         json.dump(entries, f, indent=2)
+        
