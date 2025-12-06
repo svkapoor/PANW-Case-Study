@@ -14,5 +14,17 @@
   {
     "text": "Im so happy",
     "tag": "very positive"
+  },
+  {
+    "text": "This work is crushing me",
+    "tag": "slightly negative"
+  },
+  {
+    "text": "This work is crushing me",
+    "tag": "slightly negative"
+  },
+  {
+    "text": "This work is crushing me",
+    "tag": "slightly negative"
   }
 ]

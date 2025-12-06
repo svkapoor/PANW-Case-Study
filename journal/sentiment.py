@@ -1,15 +1,19 @@
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import google.generativeai as genai
-import urllib.request 
+import socket
 from journal.config import GEMINI_API_KEY
 
 
 def is_online():
     try:
-        urllib.request.urlopen("https://www.google.com", timeout=1)
+        # attempts DNS resolution for google.com
+        socket.gethostbyname("google.com")
+        print("Online")
         return True
     except:
+        print("Offline")
         return False
+
 
 
 
@@ -44,6 +48,7 @@ def base_sentiment(text: str) -> str:
     return run_vader(text)
 
 def run_vader(text):
+    print("calling vader")
     scores = analyzer.polarity_scores(text)
     compound = scores["compound"]
 
@@ -68,6 +73,7 @@ def analyze_sentiment(text: str) -> str:
 
 
 def call_gemini_sentiment(text):
+    print("calling gemini")
     if not GEMINI_API_KEY:
         return None
 
