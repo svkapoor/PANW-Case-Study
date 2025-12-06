@@ -1,4 +1,17 @@
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import google.generativeai as genai
+import urllib.request 
+from journal.config import GEMINI_API_KEY
+
+
+def is_online():
+    try:
+        urllib.request.urlopen("https://www.google.com", timeout=1)
+        return True
+    except:
+        return False
+
+
 
 # Loads Vader's model
 analyzer = SentimentIntensityAnalyzer()
@@ -19,8 +32,20 @@ def base_sentiment(text: str) -> str:
     Use VADER to get basic sentiment classification.
     Returns one of: 'positive', 'negative', 'neutral'.
     """
+    online = is_online()
+    key = GEMINI_API_KEY
+    if online and key:
+        # Use gemini for online
+        gemini_tag = call_gemini_sentiment(text)
+        if gemini_tag:
+            return gemini_tag
+    
+    # Use vader for offline
+    return run_vader(text)
+
+def run_vader(text):
     scores = analyzer.polarity_scores(text)
-    compound = scores["compound"]  # summarizes positivity vs negativity
+    compound = scores["compound"]
 
     if compound >= 0.6:
         return "very positive"
@@ -40,6 +65,30 @@ def analyze_sentiment(text: str) -> str:
     cleaned_txt = clean_text(text)
     sentiment = base_sentiment(cleaned_txt)
     return sentiment
+
+
+def call_gemini_sentiment(text):
+    if not GEMINI_API_KEY:
+        return None
+
+    genai.configure(api_key=GEMINI_API_KEY)
+
+    prompt = f"""
+Classify the sentiment of this text into negative, slightly negative, neutral, slightly positive, and positive.
+
+Text:
+{text}
+
+Only return the category name.
+    """
+
+    try:
+        model = genai.GenerativeModel("gemini-pro")
+        response = model.generate_content(prompt)
+        result = response.text.strip()
+        return result
+    except Exception:
+        return None
 
 
 
