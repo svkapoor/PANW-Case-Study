@@ -32,7 +32,6 @@ def clean_text(text: str) -> str:
 def base_sentiment(text: str) -> str:
     """
     Use VADER to get basic sentiment classification.
-    Returns one of: 'positive', 'negative', 'neutral'.
     """
     online = is_online()
     key = GEMINI_API_KEY
@@ -46,6 +45,7 @@ def base_sentiment(text: str) -> str:
     return run_vader(text)
 
 def run_vader(text):
+    print("Using offline support. Emotions are limited.")
     scores = analyzer.polarity_scores(text)
     compound = scores["compound"]
 
@@ -76,20 +76,21 @@ def call_gemini_sentiment(text):
     genai.configure(api_key=GEMINI_API_KEY)
 
     prompt = f"""
-Classify the sentiment of this text into negative, slightly negative, neutral, slightly positive, and positive.
+Classify the sentiment of this text into an slightly positive, very positive, slightly negative, very negative, or neutral and an emotion.
 
 Text:
 {text}
 
-Only return the category name.
+Only return the category names like this Slightly Positive/Scared.
     """
 
     try:
-        model = genai.GenerativeModel("gemini-pro")
+        model = genai.GenerativeModel("gemini-2.5-flash")
         response = model.generate_content(prompt)
         result = response.text.strip()
         return result
-    except Exception:
+    except Exception as e:
+        print("Gemini failed:", type(e).__name__, "-", str(e))
         return None
 
 
