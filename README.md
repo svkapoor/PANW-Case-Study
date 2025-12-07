@@ -5,20 +5,20 @@ This project acts as a smart journaling assistant that automatically tags your e
 
 ## Features
 
-- **Sentiment Analysis**: Automatically tags journal entries with specific emotional states (e.g., `positive_high_energy`, `negative_high_stress`, `negative_low_energy`, `positive_low_energy`, `neutral` etc.).
-- **Fine-Tuned Model**: Uses a custom RoBERTa model trained on a curated dataset of idiomatic expressions and emotional nuances.
+- **Sentiment Analysis**: Automatically tags journal entries with specific emotional states (e.g., `positive_high_energy`,`positive_low_energy`, `negative_high_stress`, `negative_low_energy`, and `neutral`.).
+- **Fine-Tuned Model**: Uses a custom RoBERTa model which was finetuned on a curated dataset of metaphors, idioms, and other edge case statements.
 - **CLI Interface**: Simple command-line tools to add, view, and clear journal entries.
-- **Persistent Storage**: Entries are saved locally in a JSON file.
+- **Persistent Storage**: Entries are saved locally in a JSON file named entries.json.
 
 ## Approach & Model Selection
 
 I evaluated multiple sentiment engines before settling on the current solution:
 
 - **VADER**: extremely fast but produced shallow labels that missed nuance, so accuracy was not acceptable.
-- **Gemini**: highly accurate, yet pricing and rate limits made it difficult to scale inside a journaling CLI.
-- **DistilBERT**: inference was faster than the final model but accuracy lagged once I incorporated idioms and emoji-heavy text.
+- **Gemini**: highly accurate, but pricing and rate limits result in low scalibility inside a journaling CLI.
+- **DistilBERT**: a distilled version of the BERT model resulting in a faster inference than the final model but accuracy lagged with idioms and emoji-heavy text.
 
-The winning approach fine-tunes **RoBERTa**, a transformer that improves on BERT by training longer on a much larger corpus, removing the next-sentence prediction objective, and applying dynamic masking so it generalizes better. After labeling and cleaning 4,000+ examples across slang, idioms, and edge emotions, the RoBERTa variant delivered the most consistent performance end-to-end.
+The winning approach fine-tunes **RoBERTa**, a transformer that improves on BERT (a pretrained language understanding module) by training longer on a much larger corpus, removing the next-sentence prediction objective, and applying dynamic masking so it generalizes better. After labeling and cleaning 4,000+ examples across slang, idioms, and edge emotions, the RoBERTa variant delivered the most consistent performance end-to-end.
 
 ## Setup & Installation
 
