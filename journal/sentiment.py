@@ -3,17 +3,22 @@ from transformers import pipeline
 import os
 
 # Get the absolute path to the current script's directory
-current_dir = os.path.dirname(os.path.abspath(__file__))
+#current_dir = os.path.dirname(os.path.abspath(__file__))
 # Construct path to the model relative to this script
-model_path = os.path.join(current_dir, "..", "training", "emotion_model")
+#model_path = os.path.join(current_dir, "..", "training", "4emotion_model")
+
+from transformers import logging
+logging.set_verbosity_error()
 
 emotion_analyzer = pipeline("text-classification",
-                    model=model_path,
-                    return_all_scores=False)
+                    model="svkapoor/5EmoteModelRoBERTa",
+                    top_k=1)
 
 def analyze_sentiment(text):
     result = emotion_analyzer(text)
-    return result[0]['label']
+    return result[0][0]['label']
 
 if __name__ == "__main__":
-    print(analyze_sentiment(""))
+    print(analyze_sentiment("i am destroying this assignment"))
+    print(analyze_sentiment("ts is destroying me"))
+

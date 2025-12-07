@@ -1,0 +1,166 @@
+{"text": "I'm on cloud nine today, everything's perfect", "label": "positive_high_energy"}
+{"text": "I'm under a cloud today with all this stress", "label": "negative_high_stress"}
+{"text": "Work is a piece of cake for me today", "label": "positive_high_energy"}
+{"text": "This workload is no piece of cake, it's brutal", "label": "negative_high_stress"}
+{"text": "I'm walking on air after that success", "label": "positive_high_energy"}
+{"text": "I'm walking on eggshells with this anxiety", "label": "negative_low_energy"}
+{"text": "Feeling over the moon about my progress", "label": "positive_high_energy"}
+{"text": "Feeling like the weight of the world is on me", "label": "negative_high_stress"}
+{"text": "Everything's coming up roses for me lol", "label": "positive_high_energy"}
+{"text": "Everything's going downhill fast today", "label": "negative_high_stress"}
+{"text": "I'm riding high on success today fr", "label": "positive_high_energy"}
+{"text": "I'm in over my head with all this work", "label": "negative_high_stress"}
+{"text": "Work is smooth sailing for me today", "label": "positive_high_energy"}
+{"text": "This project is an uphill battle ngl", "label": "negative_high_stress"}
+{"text": "Work is a breeze today, so easy", "label": "positive_high_energy"}
+{"text": "Work is a nightmare today honestly", "label": "negative_high_stress"}
+{"text": "I'm flying high with motivation", "label": "positive_high_energy"}
+{"text": "I'm hitting rock bottom emotionally", "label": "negative_low_energy"}
+{"text": "My energy is through the roof rn", "label": "positive_high_energy"}
+{"text": "My stress is through the roof today", "label": "negative_high_stress"}
+{"text": "I'm on fire with productivity today", "label": "positive_high_energy"}
+{"text": "I'm burning out from all this stress", "label": "negative_high_stress"}
+{"text": "Everything's falling into place", "label": "positive_high_energy"}
+{"text": "Everything's falling apart around me", "label": "negative_high_stress"}
+{"text": "Things are looking up today", "label": "positive_high_energy"}
+{"text": "Things are looking down today fr", "label": "negative_high_stress"}
+{"text": "I'm turning the corner on this project", "label": "positive_high_energy"}
+{"text": "I'm going around in circles today", "label": "negative_high_stress"}
+{"text": "I'm hitting the ground running today", "label": "positive_high_energy"}
+{"text": "I'm running on empty today tbh", "label": "negative_low_energy"}
+{"text": "My mind is a steel trap today", "label": "positive_high_energy"}
+{"text": "My mind is like a sieve today", "label": "negative_low_energy"}
+{"text": "I'm in my element right now", "label": "positive_high_energy"}
+{"text": "I'm out of my depth here ngl", "label": "negative_low_energy"}
+{"text": "This work is right up my alley", "label": "positive_high_energy"}
+{"text": "This work is out of my league fr", "label": "negative_low_energy"}
+{"text": "I'm cooking with gas today lol", "label": "positive_high_energy"}
+{"text": "I'm in hot water with this project", "label": "negative_high_stress"}
+{"text": "Everything's going like clockwork", "label": "positive_high_energy"}
+{"text": "Everything's going pear-shaped", "label": "negative_high_stress"}
+{"text": "I'm on a roll with my tasks", "label": "positive_high_energy"}
+{"text": "I'm on a slippery slope here", "label": "negative_high_stress"}
+{"text": "I'm killing two birds with one stone", "label": "positive_high_energy"}
+{"text": "I'm beating a dead horse with this", "label": "negative_high_stress"}
+{"text": "I'm taking the bull by the horns", "label": "positive_high_energy"}
+{"text": "I'm like a bull in a china shop", "label": "negative_low_energy"}
+{"text": "I'm thinking outside the box today", "label": "positive_high_energy"}
+{"text": "I'm boxed in by all these demands", "label": "negative_high_stress"}
+{"text": "I'm seeing the big picture today", "label": "positive_high_energy"}
+{"text": "I can't see the forest for the trees", "label": "negative_high_stress"}
+{"text": "I'm connecting the dots easily", "label": "positive_high_energy"}
+{"text": "The dots aren't connecting for me", "label": "negative_low_energy"}
+{"text": "I'm playing my cards right today", "label": "positive_high_energy"}
+{"text": "The cards are stacked against me", "label": "negative_high_stress"}
+{"text": "I'm ahead of the curve today", "label": "positive_high_energy"}
+{"text": "I'm behind the eight ball today", "label": "negative_high_stress"}
+{"text": "I'm on the ball with everything", "label": "positive_high_energy"}
+{"text": "I dropped the ball on that task", "label": "negative_high_stress"}
+{"text": "I'm hitting it out of the park", "label": "positive_high_energy"}
+{"text": "I struck out with that project", "label": "negative_high_stress"}
+{"text": "I'm in the home stretch now", "label": "positive_high_energy"}
+{"text": "I'm not even in the ballpark", "label": "negative_high_stress"}
+{"text": "I'm bringing my A-game today", "label": "positive_high_energy"}
+{"text": "I'm not up to scratch today", "label": "negative_low_energy"}
+{"text": "I'm raising the bar for myself", "label": "positive_high_energy"}
+{"text": "The bar is set too high for me", "label": "negative_high_stress"}
+{"text": "I'm firing on all cylinders", "label": "positive_high_energy"}
+{"text": "I'm running on fumes today", "label": "negative_low_energy"}
+{"text": "I'm in full swing today fr", "label": "positive_high_energy"}
+{"text": "I'm swinging in the dark here", "label": "negative_high_stress"}
+{"text": "I'm hitting my stride today", "label": "positive_high_energy"}
+{"text": "I'm breaking stride with anxiety", "label": "negative_low_energy"}
+{"text": "I'm in the groove today lol", "label": "positive_high_energy"}
+{"text": "I'm in a rut today ngl", "label": "negative_low_energy"}
+{"text": "I'm on the right track today", "label": "positive_high_energy"}
+{"text": "I'm on the wrong track today", "label": "negative_high_stress"}
+{"text": "I'm on the same page today", "label": "positive_high_energy"}
+{"text": "I'm not on the same page at all", "label": "negative_high_stress"}
+{"text": "I'm stepping up to the plate", "label": "positive_high_energy"}
+{"text": "I'm stepping on everyone's toes", "label": "negative_low_energy"}
+{"text": "I'm putting my best foot forward", "label": "positive_high_energy"}
+{"text": "I'm putting my foot in my mouth", "label": "negative_low_energy"}
+{"text": "I'm keeping my feet on the ground", "label": "positive_low_energy"}
+{"text": "My feet are dragging today", "label": "negative_low_energy"}
+{"text": "I'm getting cold feet about this", "label": "negative_low_energy"}
+{"text": "I'm finding my feet in this role", "label": "positive_high_energy"}
+{"text": "I'm sweeping myself off my feet", "label": "positive_high_energy"}
+{"text": "I'm dragging my feet today fr", "label": "negative_low_energy"}
+{"text": "I'm keeping my head above water", "label": "positive_high_energy"}
+{"text": "I'm in over my head here", "label": "negative_high_stress"}
+{"text": "I'm losing my head over this", "label": "negative_high_stress"}
+{"text": "My head is in the clouds today", "label": "positive_high_energy"}
+{"text": "My head is in a fog today", "label": "negative_low_energy"}
+{"text": "I'm keeping a level head today", "label": "positive_low_energy"}
+{"text": "I'm banging my head against a wall", "label": "negative_high_stress"}
+{"text": "My head is spinning from all this", "label": "negative_high_stress"}
+{"text": "I'm at my wit's end today", "label": "negative_high_stress"}
+{"text": "I'm in two minds about this", "label": "negative_low_energy"}
+{"text": "My mind is playing tricks on me", "label": "negative_low_energy"}
+{"text": "I'm speaking my mind today", "label": "positive_high_energy"}
+{"text": "I'm minding my own business today", "label": "neutral"}
+{"text": "It slipped my mind completely", "label": "negative_low_energy"}
+{"text": "I'm keeping an open mind today", "label": "positive_low_energy"}
+{"text": "I'm exercising my mind today", "label": "positive_high_energy"}
+{"text": "My mind is resting today", "label": "positive_low_energy"}
+{"text": "I'm losing my mind over this", "label": "negative_high_stress"}
+{"text": "I'm out of my mind with worry", "label": "negative_low_energy"}
+{"text": "I'm out of my mind with joy", "label": "positive_high_energy"}
+{"text": "I'm in my right mind today", "label": "positive_low_energy"}
+{"text": "My mind is wandering today", "label": "negative_low_energy"}
+{"text": "My mind is on the job today", "label": "positive_high_energy"}
+{"text": "My mind is elsewhere today", "label": "negative_low_energy"}
+{"text": "My mind is racing with thoughts", "label": "negative_low_energy"}
+{"text": "My mind is at peace today", "label": "positive_low_energy"}
+{"text": "I'm all ears for new ideas", "label": "positive_high_energy"}
+{"text": "It's in one ear and out the other", "label": "negative_low_energy"}
+{"text": "I'm up to my ears in work", "label": "negative_high_stress"}
+{"text": "I'm keeping my eyes peeled today", "label": "positive_high_energy"}
+{"text": "I see eye to eye with everyone", "label": "positive_high_energy"}
+{"text": "We don't see eye to eye today", "label": "negative_high_stress"}
+{"text": "I'm seeing stars from stress", "label": "negative_high_stress"}
+{"text": "I'm seeing stars from success", "label": "positive_high_energy"}
+{"text": "I'm looking through rose-colored glasses", "label": "positive_high_energy"}
+{"text": "My eyes are on the prize today", "label": "positive_high_energy"}
+{"text": "My eyes are off the ball today", "label": "negative_low_energy"}
+{"text": "I'm seeing the writing on the wall", "label": "negative_high_stress"}
+{"text": "I'm writing my own ticket today", "label": "positive_high_energy"}
+{"text": "I'm talking the talk today", "label": "positive_high_energy"}
+{"text": "I'm walking the walk today", "label": "positive_high_energy"}
+{"text": "I'm all talk no action today", "label": "negative_low_energy"}
+{"text": "I'm talking in circles today", "label": "negative_high_stress"}
+{"text": "I'm thinking on my feet today", "label": "positive_high_energy"}
+{"text": "I'm thinking outside the box today", "label": "positive_high_energy"}
+{"text": "I'm thinking big today", "label": "positive_high_energy"}
+{"text": "I'm thinking small today", "label": "negative_low_energy"}
+{"text": "I'm thinking clearly today", "label": "positive_high_energy"}
+{"text": "I'm thinking too much today", "label": "negative_low_energy"}
+{"text": "I'm having second thoughts today", "label": "negative_low_energy"}
+{"text": "I'm having deep thoughts today", "label": "positive_high_energy"}
+{"text": "I'm having positive thoughts today", "label": "positive_high_energy"}
+{"text": "I'm having negative thoughts today", "label": "negative_high_stress"}
+{"text": "I'm having racing thoughts today", "label": "negative_low_energy"}
+{"text": "My brain is on fire today", "label": "positive_high_energy"}
+{"text": "My brain is on ice today", "label": "negative_low_energy"}
+{"text": "My brain is in gear today", "label": "positive_high_energy"}
+{"text": "My brain is in neutral today", "label": "neutral"}
+{"text": "My brain is on autopilot today", "label": "neutral"}
+{"text": "My brain is on vacation today", "label": "positive_low_energy"}
+{"text": "My brain is on strike today", "label": "negative_low_energy"}
+{"text": "My brain is on the ball today", "label": "positive_high_energy"}
+{"text": "My brain is on point today", "label": "positive_high_energy"}
+{"text": "My brain is on a roll today", "label": "positive_high_energy"}
+{"text": "My brain is on a winning streak", "label": "positive_high_energy"}
+{"text": "My brain is on a losing streak", "label": "negative_high_stress"}
+{"text": "My brain is on a high today", "label": "positive_high_energy"}
+{"text": "My brain is on a low today", "label": "negative_low_energy"}
+{"text": "I'm walking on sunshine today", "label": "positive_high_energy"}
+{"text": "I'm walking on thin ice today", "label": "negative_low_energy"}
+{"text": "I'm walking on hot coals today", "label": "negative_high_stress"}
+{"text": "I'm walking on pins and needles today", "label": "negative_low_energy"}
+{"text": "I'm walking a tightrope today", "label": "negative_low_energy"}
+{"text": "Just going through the motions today", "label": "neutral"}
+{"text": "Taking things in stride today", "label": "positive_low_energy"}
+{"text": "Just rolling with the punches", "label": "positive_low_energy"}
+{"text": "Feeling under the weather today", "label": "negative_low_energy"}
+{"text": "Feeling like a million bucks today", "label": "positive_high_energy"}
