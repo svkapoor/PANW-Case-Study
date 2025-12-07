@@ -2,7 +2,7 @@ import json
 import os
 
 # Define paths
-directory = r"c:\Users\akhil\OneDrive\Desktop\PAN\PANW-Case-Study\training"
+directory = r"c:\Users\akhil\OneDrive\Desktop\PAN\PANW-Case-Study\training\data"
 input_path = os.path.join(directory, "train_updated.jsonl")
 output_path = os.path.join(directory, "train_updated.jsonl") # Overwriting as requested "replace" implies modifying, but let's be safe and write to a temp file then rename or just read all lines then write.
 

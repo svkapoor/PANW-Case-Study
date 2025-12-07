@@ -248,3 +248,83 @@ def test_sentiment_close_to_burnout():
 def test_sentiment_soft_appreciation():
     result = analyze_sentiment("I feel a soft appreciation for everything today")
     assert result in ["positive_low_energy", "neutral"]
+
+def test_sentiment_happy_soft_emoji():
+    result = analyze_sentiment("Feeling calm today 😊")
+    assert result in ["positive_low_energy", "neutral"]
+
+def test_sentiment_happy_hype_emoji():
+    result = analyze_sentiment("Let's go!! 🔥🔥")
+    assert result in ["positive_high_energy", "positive_low_energy"]
+
+def test_sentiment_exhausted_emoji():
+    result = analyze_sentiment("I'm so tired... 😩")
+    assert result in ["negative_low_energy", "negative_high_stress"]
+
+def test_sentiment_overwhelmed_emoji():
+    result = analyze_sentiment("Everything is too much rn 😣")
+    assert result in ["negative_high_stress", "negative_low_energy"]
+
+def test_sentiment_peaceful_emoji():
+    result = analyze_sentiment("Feeling peaceful 🌿")
+    assert result in ["positive_low_energy", "neutral"]
+
+def test_sentiment_rising_energy_emoji():
+    result = analyze_sentiment("Energy coming back ⚡")
+    assert result in ["positive_high_energy", "positive_low_energy"]
+
+def test_sentiment_low_key_good_emoji():
+    result = analyze_sentiment("lowkey feeling good 😌")
+    assert result in ["positive_low_energy", "neutral"]
+
+def test_sentiment_brain_fried_emoji():
+    result = analyze_sentiment("My brain is fried 😵‍💫")
+    assert result in ["negative_low_energy", "negative_high_stress"]
+
+def test_sentiment_strong_drive_emoji():
+    result = analyze_sentiment("Motivated as hell today 💪")
+    assert result in ["positive_high_energy", "positive_low_energy"]
+
+def test_sentiment_unmotivated_emoji():
+    result = analyze_sentiment("Zero motivation today 😔")
+    assert result in ["negative_low_energy", "negative_high_stress"]
+
+def test_sentiment_anxious_but_you_removed_it():
+    result = analyze_sentiment("Nervous but pushing through 😬")
+    assert result in ["negative_high_stress", "negative_low_energy"]
+
+def test_sentiment_okay_emoji():
+    result = analyze_sentiment("I'm okay 🙂")
+    assert result in ["neutral", "positive_low_energy"]
+
+def test_sentiment_dead_tired_emoji():
+    result = analyze_sentiment("I feel dead tired 😪")
+    assert result in ["negative_low_energy", "negative_high_stress"]
+
+def test_sentiment_on_edge_emoji():
+    result = analyze_sentiment("I'm on edge rn 😖")
+    assert result in ["negative_high_stress", "negative_low_energy"]
+
+def test_sentiment_hyped_up_emoji():
+    result = analyze_sentiment("I'M SO READY FOR TODAY 🚀")
+    assert result in ["positive_high_energy", "positive_low_energy"]
+
+def test_sentiment_soft_relief_emoji():
+    result = analyze_sentiment("Ahh finally some relief 😮‍💨")
+    assert result in ["positive_low_energy", "neutral"]
+
+def test_sentiment_neutral_blank_emoji():
+    result = analyze_sentiment("meh 😐")
+    assert result in ["neutral", "negative_low_energy"]
+
+def test_sentiment_shutting_down_emoji():
+    result = analyze_sentiment("My body is shutting down 😵")
+    assert result in ["negative_low_energy", "negative_high_stress"]
+
+def test_sentiment_slightly_better_emoji():
+    result = analyze_sentiment("Feeling a tiny bit better 🙂‍↕️")
+    assert result in ["positive_low_energy", "neutral"]
+
+def test_sentiment_focus_mode_emoji():
+    result = analyze_sentiment("Entering focus mode 🎯")
+    assert result in ["positive_high_energy", "positive_low_energy"]
