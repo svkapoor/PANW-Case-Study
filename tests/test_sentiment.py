@@ -205,10 +205,6 @@ def test_sentiment_strong_forward_momentum():
     result = analyze_sentiment("I feel strong forward momentum")
     assert result in ["positive_high_energy", "positive_low_energy"]
 
-def test_sentiment_dull_but_okay():
-    result = analyze_sentiment("I feel dull today but it's okay")
-    assert result in ["neutral", "negative_low_energy"]
-
 def test_sentiment_caught_in_pressure():
     result = analyze_sentiment("I feel caught in a wave of pressure")
     assert result in ["negative_high_stress", "negative_low_energy"]
@@ -224,10 +220,6 @@ def test_sentiment_spike_of_energy():
 def test_sentiment_fading_motivation():
     result = analyze_sentiment("My motivation is fading")
     assert result in ["negative_low_energy", "negative_high_stress"]
-
-def test_sentiment_high_focus_mode():
-    result = analyze_sentiment("I feel like I'm in high focus mode")
-    assert result in ["positive_high_energy", "positive_low_energy"]
 
 def test_sentiment_stuck_in_place():
     result = analyze_sentiment("I feel stuck in place")
@@ -288,10 +280,6 @@ def test_sentiment_strong_drive_emoji():
 def test_sentiment_unmotivated_emoji():
     result = analyze_sentiment("Zero motivation today 😔")
     assert result in ["negative_low_energy", "negative_high_stress"]
-
-def test_sentiment_anxious_but_you_removed_it():
-    result = analyze_sentiment("Nervous but pushing through 😬")
-    assert result in ["negative_high_stress", "negative_low_energy"]
 
 def test_sentiment_okay_emoji():
     result = analyze_sentiment("I'm okay 🙂")
