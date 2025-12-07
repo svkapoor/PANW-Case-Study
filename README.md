@@ -60,10 +60,14 @@ The core intelligence comes from `svkapoor/5EmoteModelRoBERTa`, a model fine-tun
 
 -   **Base Model**: `SamLowe/roberta-base-go_emotions`
 -   **Training Script**: `training/main.ipynb`
--   **Data**: The model was trained on a diverse set of examples located in `training/data/`, including:
-    -   `train.jsonl` / `train_v2.jsonl`: General sentiment data.
-    -   `idioms.jsonl`: Specialized dataset for understanding idiomatic expressions (e.g., "I'm on thin ice" vs "I'm on cloud nine").
--   **Method**: We used the Hugging Face `Trainer` API to fine-tune the model, focusing on distinguishing between subtle high-energy and high-stress states.
+-   **Methodology**: The model underwent a rigorous two-stage fine-tuning process to maximize adaptability and nuance:
+    1.  **Stage 1 - Slang & Emoji Adaptation**: The base model (`SamLowe/roberta-base-go_emotions`) was first fine-tuned on `train.jsonl` and `train_v2.jsonl`. This stage focused on teaching the model modern internet slang, emoji context, and general sentiment patterns.
+    2.  **Stage 2 - Idiomatic Refinement**: The resulting model was then fine-tuned *again* using `idioms.jsonl` and `train_updated.jsonl`. This critical step refined the model's ability to understand idiomatic expressions (e.g., distinguishing "I'm on thin ice" from "I'm cool as ice") and corrected varied labels (e.g. shifting `anxious` to `negative_low_energy`).
+
+-   **Data Sources**: located in `training/data/`
+    -   `train.jsonl` / `train_v2.jsonl`: Synthetic slang and emoji-rich data.
+    -   `idioms.jsonl`: specialized dataset for idioms.
+    -   `train_updated.jsonl`: Correction dataset to refine specific labels.
 
 ## Testing
 
