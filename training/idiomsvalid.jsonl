@@ -1,0 +1,51 @@
+{"text": "I'm over the moon with joy today", "label": "positive_high_energy"}
+{"text": "I'm down in the dumps today fr", "label": "negative_low_energy"}
+{"text": "Work is a walk in the park today", "label": "positive_high_energy"}
+{"text": "This is my bread and butter tbh", "label": "positive_high_energy"}
+{"text": "I'm buttering people up today lol", "label": "positive_high_energy"}
+{"text": "I'm the big cheese on this project", "label": "positive_high_energy"}
+{"text": "I'm a small fish in a big pond", "label": "negative_low_energy"}
+{"text": "There are bigger fish to fry", "label": "positive_high_energy"}
+{"text": "I'm in a pickle with this deadline", "label": "negative_high_stress"}
+{"text": "I'm a tough cookie to crack", "label": "positive_high_energy"}
+{"text": "That's the way the cookie crumbles", "label": "neutral"}
+{"text": "I'm nutty as a fruitcake today", "label": "positive_high_energy"}
+{"text": "I'm taking it with a grain of salt", "label": "neutral"}
+{"text": "I'm the salt of the earth today", "label": "positive_high_energy"}
+{"text": "I'm worth my salt today fr", "label": "positive_high_energy"}
+{"text": "I'm not worth my salt today", "label": "negative_low_energy"}
+{"text": "I'm spilling the beans today", "label": "positive_high_energy"}
+{"text": "I'm full of beans today lol", "label": "positive_high_energy"}
+{"text": "I don't know beans about this", "label": "negative_low_energy"}
+{"text": "I'm in a jam with this project", "label": "negative_high_stress"}
+{"text": "I'm toast if I don't finish this", "label": "negative_high_stress"}
+{"text": "I'm the toast of the town today", "label": "positive_high_energy"}
+{"text": "I'm a sandwich short of a picnic", "label": "negative_low_energy"}
+{"text": "I'm bringing home the bacon today", "label": "positive_high_energy"}
+{"text": "I'm saving my bacon today fr", "label": "positive_high_energy"}
+{"text": "My bacon is saved today lol", "label": "positive_high_energy"}
+{"text": "I'm chewing the fat today", "label": "positive_low_energy"}
+{"text": "I'm crying over spilled milk", "label": "negative_high_stress"}
+{"text": "Don't cry over spilled milk today", "label": "positive_low_energy"}
+{"text": "The cream always rises to the top", "label": "positive_high_energy"}
+{"text": "I'm the cream of the crop today", "label": "positive_high_energy"}
+{"text": "I'm sour grapes about this", "label": "negative_high_stress"}
+{"text": "Life is a bowl of cherries today", "label": "positive_high_energy"}
+{"text": "Life is the pits today ngl", "label": "negative_high_stress"}
+{"text": "I'm comparing apples to oranges", "label": "negative_high_stress"}
+{"text": "I'm the apple of someone's eye", "label": "positive_high_energy"}
+{"text": "One bad apple spoils the bunch", "label": "negative_high_stress"}
+{"text": "An apple a day keeps the doctor away", "label": "positive_high_energy"}
+{"text": "I'm as cool as a cucumber today", "label": "positive_low_energy"}
+{"text": "I'm in a pickle today fr", "label": "negative_high_stress"}
+{"text": "I'm a hot potato today lol", "label": "negative_high_stress"}
+{"text": "I'm a couch potato today", "label": "negative_low_energy"}
+{"text": "I'm small potatoes today tbh", "label": "negative_low_energy"}
+{"text": "I'm meat and potatoes today", "label": "neutral"}
+{"text": "I'm gravy today, everything's easy", "label": "positive_high_energy"}
+{"text": "I'm in gravy today fr", "label": "positive_high_energy"}
+{"text": "I'm chewing the scenery today", "label": "positive_high_energy"}
+{"text": "I'm a ham today lol", "label": "positive_high_energy"}
+{"text": "I'm bringing home the turkey today", "label": "positive_high_energy"}
+{"text": "I'm talking turkey today", "label": "positive_high_energy"}
+{"text": "I'm cold turkey on stress today", "label": "positive_high_energy"}

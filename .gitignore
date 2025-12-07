@@ -34,6 +34,9 @@ MANIFEST
 training/journal_model/
 training/emotion_model/
 training/emotion_model.zip
+training/idiom_emotion_model/
+training/idiom_emotion_model.zip
+training/4emotion_model/
 # Virtual Environments
 .venv/
 venv/
