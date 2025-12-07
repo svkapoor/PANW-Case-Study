@@ -66,7 +66,7 @@ The file format is a list of JSON objects containing the text, tag, and timestam
 
 ## Model Training & Fine-Tuning
 
-The core intelligence comes from `svkapoor/5EmoteModelRoBERTa`, a model fine-tuned specifically for this project.
+The intelligence comes from `svkapoor/5EmoteModelRoBERTa`, the model fine-tuned specifically for this project.
 
 -   **Base Model**: `SamLowe/roberta-base-go_emotions`
 -   **Training Script**: `training/main.ipynb`
