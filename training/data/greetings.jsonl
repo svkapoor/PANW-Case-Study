@@ -1,0 +1,239 @@
+{"text":"Hey there","label":"neutral"}
+{"text":"Hello","label":"neutral"}
+{"text":"Hi","label":"neutral"}
+{"text":"Hey","label":"neutral"}
+{"text":"Yo","label":"neutral"}
+{"text":"Sup","label":"neutral"}
+{"text":"What’s up","label":"neutral"}
+{"text":"How’s it going","label":"neutral"}
+{"text":"How are you","label":"neutral"}
+{"text":"Good morning","label":"neutral"}
+{"text":"Good afternoon","label":"neutral"}
+{"text":"Good evening","label":"neutral"}
+{"text":"Howdy","label":"neutral"}
+{"text":"Hey man","label":"neutral"}
+{"text":"Hey dude","label":"neutral"}
+{"text":"Hey bro","label":"neutral"}
+{"text":"Hey fam","label":"neutral"}
+{"text":"Yo bro","label":"neutral"}
+{"text":"Yo man","label":"neutral"}
+{"text":"Yo dude","label":"neutral"}
+{"text":"Hey there friend","label":"neutral"}
+{"text":"What’s good","label":"neutral"}
+{"text":"What’s poppin","label":"neutral"}
+{"text":"What’s crackin","label":"neutral"}
+{"text":"What’s happening","label":"neutral"}
+{"text":"What’s goin on","label":"neutral"}
+{"text":"How you doing","label":"neutral"}
+{"text":"How you been","label":"neutral"}
+{"text":"Long time no see","label":"neutral"}
+{"text":"Nice to see you","label":"neutral"}
+{"text":"Good to see you","label":"neutral"}
+{"text":"Pleasure to see you","label":"neutral"}
+{"text":"Greetings","label":"neutral"}
+{"text":"Salutations","label":"neutral"}
+{"text":"Hi there","label":"neutral"}
+{"text":"Hey hey","label":"neutral"}
+{"text":"Yo yo","label":"neutral"}
+{"text":"Hi friend","label":"neutral"}
+{"text":"Hello friend","label":"neutral"}
+{"text":"Hey buddy","label":"neutral"}
+{"text":"Hi buddy","label":"neutral"}
+{"text":"What’s new","label":"neutral"}
+{"text":"What’s going down","label":"neutral"}
+{"text":"What’s the vibe","label":"neutral"}
+{"text":"How’s everything","label":"neutral"}
+{"text":"How’s life","label":"neutral"}
+{"text":"How’s your day","label":"neutral"}
+{"text":"How’s your week","label":"neutral"}
+{"text":"Good day","label":"neutral"}
+{"text":"Hey stranger","label":"neutral"}
+{"text":"Hi stranger","label":"neutral"}
+{"text":"Yo stranger","label":"neutral"}
+{"text":"Hey team","label":"neutral"}
+{"text":"Hey everyone","label":"neutral"}
+{"text":"Hi everyone","label":"neutral"}
+{"text":"Hello everyone","label":"neutral"}
+{"text":"Hi all","label":"neutral"}
+{"text":"Hey all","label":"neutral"}
+{"text":"Yo all","label":"neutral"}
+{"text":"Sup everyone","label":"neutral"}
+{"text":"Sup y’all","label":"neutral"}
+{"text":"Hey y’all","label":"neutral"}
+{"text":"Hi y’all","label":"neutral"}
+{"text":"Good morning everyone","label":"neutral"}
+{"text":"Good afternoon everyone","label":"neutral"}
+{"text":"Good evening everyone","label":"neutral"}
+{"text":"Morning","label":"neutral"}
+{"text":"Afternoon","label":"neutral"}
+{"text":"Evening","label":"neutral"}
+{"text":"Hi there everyone","label":"neutral"}
+{"text":"Hello there everyone","label":"neutral"}
+{"text":"Hey hey everyone","label":"neutral"}
+{"text":"Yo fam what’s up","label":"neutral"}
+{"text":"Hey fam what’s good","label":"neutral"}
+{"text":"Sup fam","label":"neutral"}
+{"text":"Hey gang","label":"neutral"}
+{"text":"Hi gang","label":"neutral"}
+{"text":"Yo gang","label":"neutral"}
+{"text":"Hello people","label":"neutral"}
+{"text":"Hi people","label":"neutral"}
+{"text":"Hey people","label":"neutral"}
+{"text":"Greetings everyone","label":"neutral"}
+{"text":"Hey bestie","label":"neutral"}
+{"text":"Hi bestie","label":"neutral"}
+{"text":"Yo bestie","label":"neutral"}
+{"text":"What’s going on today","label":"neutral"}
+{"text":"How you feeling today","label":"neutral"}
+{"text":"How’s your morning going","label":"neutral"}
+{"text":"How’s your afternoon going","label":"neutral"}
+{"text":"How’s your evening going","label":"neutral"}
+{"text":"Good to catch you","label":"neutral"}
+{"text":"Nice hearing from you","label":"neutral"}
+{"text":"Hi there how are you","label":"neutral"}
+{"text":"Hey there how’s it going","label":"neutral"}
+{"text":"Yo how you been lately","label":"neutral"}
+{"text":"What’s happening today","label":"neutral"}
+{"text":"Hey what’s happening my guy","label":"neutral"}
+{"text":"What’s up brodie","label":"neutral"}
+{"text":"Hey brodie","label":"neutral"}
+{"text":"Hi brodie","label":"neutral"}
+{"text":"Yo brodie","label":"neutral"}
+{"text":"Hey homie","label":"neutral"}
+{"text":"Yo homie","label":"neutral"}
+{"text":"Hi homie","label":"neutral"}
+{"text":"What’s goin on homie","label":"neutral"}
+{"text":"Hey boss","label":"neutral"}
+{"text":"Hi boss","label":"neutral"}
+{"text":"Yo boss","label":"neutral"}
+{"text":"What’s up boss","label":"neutral"}
+{"text":"Hey chief","label":"neutral"}
+{"text":"Hi chief","label":"neutral"}
+{"text":"Yo chief","label":"neutral"}
+{"text":"What’s up chief","label":"neutral"}
+{"text":"Hey legend","label":"neutral"}
+{"text":"Hi legend","label":"neutral"}
+{"text":"Yo legend","label":"neutral"}
+{"text":"Sup legend","label":"neutral"}
+{"text":"Hey pal","label":"neutral"}
+{"text":"Hi pal","label":"neutral"}
+{"text":"Yo pal","label":"neutral"}
+{"text":"Sup pal","label":"neutral"}
+{"text":"Hey mate","label":"neutral"}
+{"text":"Hi mate","label":"neutral"}
+{"text":"Yo mate","label":"neutral"}
+{"text":"Sup mate","label":"neutral"}
+{"text":"Hello mate","label":"neutral"}
+{"text":"How’s your night going","label":"neutral"}
+{"text":"How’s your morning been","label":"neutral"}
+{"text":"How’s everything on your end","label":"neutral"}
+{"text":"Hey what’s happening today","label":"neutral"}
+{"text":"Hi what’s going on","label":"neutral"}
+{"text":"Yo what’s good today","label":"neutral"}
+{"text":"Sup what’s new with you","label":"neutral"}
+{"text":"Hey what you up to","label":"neutral"}
+{"text":"Hi what you up to","label":"neutral"}
+{"text":"Yo what you up to","label":"neutral"}
+{"text":"Hey what’s the move","label":"neutral"}
+{"text":"Sup what’s the move","label":"neutral"}
+{"text":"Yo what’s the move","label":"neutral"}
+{"text":"Hey what’s the plan","label":"neutral"}
+{"text":"Hi what’s the plan","label":"neutral"}
+{"text":"Yo what’s the plan","label":"neutral"}
+{"text":"What are you up to today","label":"neutral"}
+{"text":"What’s happening my friend","label":"neutral"}
+{"text":"Hey friend what’s up","label":"neutral"}
+{"text":"Hi friend how are you","label":"neutral"}
+{"text":"Yo friend what’s good","label":"neutral"}
+{"text":"Good morning how are you","label":"neutral"}
+{"text":"Good afternoon how’s it going","label":"neutral"}
+{"text":"Good evening how you been","label":"neutral"}
+{"text":"Hey checking in","label":"neutral"}
+{"text":"Hi checking in","label":"neutral"}
+{"text":"Yo checking in","label":"neutral"}
+{"text":"Sup checking in","label":"neutral"}
+{"text":"Hey what’s your day looking like","label":"neutral"}
+{"text":"Hi what’s your day look like","label":"neutral"}
+{"text":"Yo what’s your day looking like","label":"neutral"}
+{"text":"Hey there what’s popping","label":"neutral"}
+{"text":"Hi there what’s popping","label":"neutral"}
+{"text":"Yo what’s popping","label":"neutral"}
+{"text":"Hey how’s stuff going","label":"neutral"}
+{"text":"Hi how’s stuff going","label":"neutral"}
+{"text":"Yo how’s stuff going","label":"neutral"}
+{"text":"Sup how’s stuff going","label":"neutral"}
+{"text":"Hey what’s your vibe today","label":"neutral"}
+{"text":"Hi what’s your vibe today","label":"neutral"}
+{"text":"Yo what’s your vibe today","label":"neutral"}
+{"text":"Sup what’s your vibe today","label":"neutral"}
+{"text":"Hey hey how’s everything today","label":"neutral"}
+{"text":"Hi hi how are things","label":"neutral"}
+{"text":"Yo yo how you been","label":"neutral"}
+{"text":"Sup how’s your morning so far","label":"neutral"}
+{"text":"Hey how’s your afternoon so far","label":"neutral"}
+{"text":"Hi how’s your evening so far","label":"neutral"}
+{"text":"Yo how’s your night so far","label":"neutral"}
+{"text":"Hey what’s the latest","label":"neutral"}
+{"text":"Hi what’s the latest","label":"neutral"}
+{"text":"Yo what’s the latest","label":"neutral"}
+{"text":"Sup what’s the latest","label":"neutral"}
+{"text":"Hey any updates with you","label":"neutral"}
+{"text":"Hi any updates with you","label":"neutral"}
+{"text":"Yo any updates with you","label":"neutral"}
+{"text":"Sup any updates with you","label":"neutral"}
+{"text":"Hey what are you working on","label":"neutral"}
+{"text":"Hi what are you working on","label":"neutral"}
+{"text":"Yo what are you working on","label":"neutral"}
+{"text":"Sup what are you working on","label":"neutral"}
+{"text":"Hey how’s your week been","label":"neutral"}
+{"text":"Hi how’s your week been","label":"neutral"}
+{"text":"Yo how’s your week been","label":"neutral"}
+{"text":"Sup how’s your week been","label":"neutral"}
+{"text":"Hey how’s today treating you","label":"neutral"}
+{"text":"Hi how’s today treating you","label":"neutral"}
+{"text":"Yo how’s today treating you","label":"neutral"}
+{"text":"Sup how’s today treating you","label":"neutral"}
+{"text":"Hey how’s your schedule looking","label":"neutral"}
+{"text":"Hi how’s your schedule looking","label":"neutral"}
+{"text":"Yo how’s your schedule looking","label":"neutral"}
+{"text":"Sup how’s your schedule looking","label":"neutral"}
+{"text":"Hey how’s your day starting","label":"neutral"}
+{"text":"Hi how’s your day starting","label":"neutral"}
+{"text":"Yo how’s your day starting","label":"neutral"}
+{"text":"Sup how’s your day starting","label":"neutral"}
+{"text":"Hey how’s your day ending","label":"neutral"}
+{"text":"Hi how’s your day ending","label":"neutral"}
+{"text":"Yo how’s your day ending","label":"neutral"}
+{"text":"Sup how’s your day ending","label":"neutral"}
+{"text":"Hey how’s your weekend going","label":"neutral"}
+{"text":"Hi how’s your weekend going","label":"neutral"}
+{"text":"Yo how’s your weekend going","label":"neutral"}
+{"text":"Sup how’s your weekend going","label":"neutral"}
+{"text":"Hey how’s school going","label":"neutral"}
+{"text":"Hi how’s school going","label":"neutral"}
+{"text":"Yo how’s school going","label":"neutral"}
+{"text":"Sup how’s school going","label":"neutral"}
+{"text":"Hey how’s work going","label":"neutral"}
+{"text":"Hi how’s work going","label":"neutral"}
+{"text":"Yo how’s work going","label":"neutral"}
+{"text":"Sup how’s work going","label":"neutral"}
+{"text":"Hey how’s everything at home","label":"neutral"}
+{"text":"Hi how’s everything at home","label":"neutral"}
+{"text":"Yo how’s everything at home","label":"neutral"}
+{"text":"Sup how’s everything at home","label":"neutral"}
+{"text":"Hey just saying hi","label":"neutral"}
+{"text":"Hi just saying hi","label":"neutral"}
+{"text":"Yo just saying hi","label":"neutral"}
+{"text":"Sup just saying hi","label":"neutral"}
+{"text":"Hey dropping a hello","label":"neutral"}
+{"text":"Hi dropping a hello","label":"neutral"}
+{"text":"Yo dropping a hello","label":"neutral"}
+{"text":"Sup dropping a hello","label":"neutral"}
+{"text":"Hey checking how you’re doing","label":"neutral"}
+{"text":"Hi checking how you’re doing","label":"neutral"}
+{"text":"Yo checking how you’re doing","label":"neutral"}
+{"text":"Sup checking how you’re doing","label":"neutral"}
+{"text":"Hey quick hello","label":"neutral"}
+{"text":"Hi quick hello","label":"neutral"}
+{"text":"Yo quick hello","label":"neutral"}
+{"text":"Sup quick hello","label":"neutral"}
