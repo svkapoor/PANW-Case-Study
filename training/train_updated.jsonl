@@ -1,0 +1,1062 @@
+{"text": "This workload is crushing me", "label": "negative_high_stress"}
+{"text": "I am crushing this workload", "label": "positive_high_energy"}
+{"text": "This project is draining me", "label": "negative_low_energy"}
+{"text": "This project is fueling me", "label": "positive_low_energy"}
+{"text": "Today is burying me", "label": "negative_low_energy"}
+{"text": "Today is carrying me", "label": "positive_high_energy"}
+{"text": "This routine is breaking me", "label": "negative_low_energy"}
+{"text": "This routine is strengthening me", "label": "positive_low_energy"}
+{"text": "The pressure is suffocating me", "label": "negative_high_stress"}
+{"text": "The pressure is sharpening me", "label": "positive_high_energy"}
+{"text": "This challenge is wearing me down", "label": "negative_low_energy"}
+{"text": "This challenge is lifting me up", "label": "positive_high_energy"}
+{"text": "This sprint is overwhelming me", "label": "negative_high_stress"}
+{"text": "This sprint is motivating me", "label": "positive_high_energy"}
+{"text": "This task is exhausting me", "label": "negative_low_energy"}
+{"text": "This task is energizing me", "label": "positive_low_energy"}
+{"text": "This class is burning me out", "label": "negative_low_energy"}
+{"text": "This class is bringing out my best", "label": "positive_high_energy"}
+{"text": "This pace is drowning me", "label": "negative_high_stress"}
+{"text": "This pace is pushing me forward", "label": "positive_high_energy"}
+{"text": "Everything feels like too much", "label": "negative_high_stress"}
+{"text": "Everything feels manageable", "label": "neutral"}
+{"text": "I feel like I am slipping behind", "label": "negative_low_energy"}
+{"text": "I feel like I am moving ahead", "label": "positive_low_energy"}
+{"text": "This goal is pulling me under", "label": "negative_low_energy"}
+{"text": "This goal is pulling me forward", "label": "positive_low_energy"}
+{"text": "I cannot keep up with this pace", "label": "negative_high_stress"}
+{"text": "I can keep up with this pace", "label": "positive_high_energy"}
+{"text": "The work keeps piling on me", "label": "negative_high_stress"}
+{"text": "The work keeps pushing me upward", "label": "positive_high_energy"}
+{"text": "This deadline is crushing my confidence", "label": "negative_high_stress"}
+{"text": "This deadline is boosting my confidence", "label": "positive_high_energy"}
+{"text": "These demands are draining my energy", "label": "negative_low_energy"}
+{"text": "These demands are giving me energy", "label": "positive_high_energy"}
+{"text": "This responsibility weighs heavily on me", "label": "negative_high_stress"}
+{"text": "This responsibility lifts me up", "label": "positive_low_energy"}
+{"text": "I feel trapped by my tasks", "label": "negative_high_stress"}
+{"text": "I feel supported by my tasks", "label": "positive_low_energy"}
+{"text": "I am mentally collapsing under pressure", "label": "negative_high_stress"}
+{"text": "I am mentally rising through pressure", "label": "positive_high_energy"}
+{"text": "I feel like I am losing control", "label": "anxious"}
+{"text": "I feel like I have control", "label": "neutral"}
+{"text": "Everything feels unstable", "label": "anxious"}
+{"text": "Everything feels steady", "label": "neutral"}
+{"text": "My thoughts are overwhelming me", "label": "anxious"}
+{"text": "My thoughts are calming me", "label": "positive_low_energy"}
+{"text": "I feel cornered by expectations", "label": "anxious"}
+{"text": "I feel prepared for expectations", "label": "neutral"}
+{"text": "This tension is eating at me", "label": "negative_high_stress"}
+{"text": "This tension is motivating me", "label": "positive_high_energy"}
+{"text": "I feel pressure tightening on me", "label": "anxious"}
+{"text": "I feel pressure guiding me", "label": "positive_low_energy"}
+{"text": "The noise around me is stressing me out", "label": "anxious"}
+{"text": "The noise around me barely affects me", "label": "neutral"}
+{"text": "I cannot stop worrying about everything", "label": "anxious"}
+{"text": "I do not feel worried about anything", "label": "neutral"}
+{"text": "My thoughts are spinning out of control", "label": "anxious"}
+{"text": "My thoughts feel clear", "label": "neutral"}
+{"text": "I feel too scattered to think straight", "label": "anxious"}
+{"text": "I feel focused enough to think clearly", "label": "neutral"}
+{"text": "My mind keeps racing", "label": "anxious"}
+{"text": "My mind feels still", "label": "neutral"}
+{"text": "I feel uneasy about what's ahead", "label": "anxious"}
+{"text": "I feel calm about what's ahead", "label": "positive_low_energy"}
+{"text": "I feel unsure if I can handle this", "label": "anxious"}
+{"text": "I feel sure I can handle this", "label": "positive_high_energy"}
+{"text": "Stress is getting the best of me", "label": "negative_high_stress"}
+{"text": "Stress is pushing me to improve", "label": "positive_high_energy"}
+{"text": "I am overwhelmed by expectations", "label": "negative_high_stress"}
+{"text": "I am rising to expectations", "label": "positive_high_energy"}
+{"text": "This workload keeps beating me", "label": "negative_high_stress"}
+{"text": "I keep beating this workload", "label": "positive_high_energy"}
+{"text": "I feel weighed down by everything", "label": "negative_low_energy"}
+{"text": "I feel lifted by everything", "label": "positive_low_energy"}
+{"text": "My responsibilities are swallowing me", "label": "negative_high_stress"}
+{"text": "My responsibilities are empowering me", "label": "positive_high_energy"}
+{"text": "I am losing ground", "label": "negative_low_energy"}
+{"text": "I am gaining ground", "label": "positive_low_energy"}
+{"text": "I feel hopelessly behind", "label": "negative_low_energy"}
+{"text": "I feel comfortably ahead", "label": "positive_low_energy"}
+{"text": "My energy is disappearing", "label": "negative_low_energy"}
+{"text": "My energy is stabilizing", "label": "neutral"}
+{"text": "This day is slowly defeating me", "label": "negative_low_energy"}
+{"text": "This day is slowly helping me grow", "label": "positive_low_energy"}
+{"text": "My workload feels impossible", "label": "negative_high_stress"}
+{"text": "My workload feels doable", "label": "neutral"}
+{"text": "I cannot breathe under all this stress", "label": "negative_high_stress"}
+{"text": "I can breathe just fine under this pressure", "label": "positive_high_energy"}
+{"text": "I am tense about everything today", "label": "anxious"}
+{"text": "I feel neutral about everything today", "label": "neutral"}
+{"text": "My nerves are getting worse", "label": "anxious"}
+{"text": "My nerves are settling", "label": "positive_low_energy"}
+{"text": "This project has me anxious", "label": "anxious"}
+{"text": "This project feels neutral to me", "label": "neutral"}
+{"text": "I feel like I am failing myself", "label": "negative_low_energy"}
+{"text": "I feel like I am supporting myself well", "label": "positive_low_energy"}
+{"text": "This task keeps stressing me out", "label": "negative_high_stress"}
+{"text": "This task keeps lifting me up", "label": "positive_low_energy"}
+{"text": "I feel stretched too thin", "label": "negative_low_energy"}
+{"text": "I feel stretched just right", "label": "neutral"}
+{"text": "Everything feels like it's tightening around me", "label": "anxious"}
+{"text": "Everything feels stable around me", "label": "neutral"}
+{"text": "My thoughts are spiraling fast", "label": "anxious"}
+{"text": "My thoughts are steady", "label": "neutral"}
+{"text": "My energy is fading fast", "label": "negative_low_energy"}
+{"text": "My energy is rising fast", "label": "positive_high_energy"}
+{"text": "Pressure is overtaking me", "label": "negative_high_stress"}
+{"text": "Pressure is pushing me to excel", "label": "positive_high_energy"}
+{"text": "I feel on the verge of breaking", "label": "negative_high_stress"}
+{"text": "I feel on the verge of improving", "label": "positive_high_energy"}
+{"text": "Stress feels unbearable today", "label": "negative_high_stress"}
+{"text": "Stress feels manageable today", "label": "neutral"}
+{"text": "I am anxious about losing control", "label": "anxious"}
+{"text": "I am calm about maintaining control", "label": "positive_low_energy"}
+{"text": "Everything feels rushed and stressful", "label": "negative_high_stress"}
+{"text": "Everything feels slow and neutral", "label": "neutral"}
+{"text": "I keep worrying about failing", "label": "anxious"}
+{"text": "I am not worried about failing", "label": "neutral"}
+{"text": "This situation is tightening my chest", "label": "anxious"}
+{"text": "This situation is opening my perspective", "label": "positive_low_energy"}
+{"text": "The expectations feel unbearable", "label": "negative_high_stress"}
+{"text": "The expectations feel balanced", "label": "neutral"}
+{"text": "I feel tense about everything happening at once", "label": "anxious"}
+{"text": "I feel indifferent to everything happening at once", "label": "neutral"}
+{"text": "My thoughts feel heavy today", "label": "negative_low_energy"}
+{"text": "My thoughts feel light today", "label": "positive_low_energy"}
+{"text": "This whole week is consuming me", "label": "negative_high_stress"}
+{"text": "This whole week is energizing me", "label": "positive_high_energy"}
+{"text": "I feel scattered and unfocused", "label": "anxious"}
+{"text": "I feel centered and steady", "label": "neutral"}
+{"text": "Everything around me feels chaotic", "label": "anxious"}
+{"text": "Everything around me feels neutral", "label": "neutral"}
+{"text": "I feel emotionally worn out", "label": "negative_low_energy"}
+{"text": "I feel emotionally refreshed", "label": "positive_low_energy"}
+{"text": "I feel like I am sinking", "label": "negative_low_energy"}
+{"text": "I feel like I am rising", "label": "positive_high_energy"}
+{"text": "My anxiety is taking over", "label": "anxious"}
+{"text": "My calmness is taking over", "label": "neutral"}
+{"text": "This challenge is overwhelming my mind", "label": "negative_high_stress"}
+{"text": "This challenge is improving my mindset", "label": "positive_high_energy"}
+{"text": "I cannot keep my thoughts straight", "label": "anxious"}
+{"text": "I can keep my thoughts straight", "label": "neutral"}
+{"text": "I feel weighed down emotionally", "label": "negative_low_energy"}
+{"text": "I feel lifted emotionally", "label": "positive_low_energy"}
+{"text": "Stress is clouding everything", "label": "negative_high_stress"}
+{"text": "Calmness is clarifying everything", "label": "neutral"}
+{"text": "My mind feels too full", "label": "anxious"}
+{"text": "My mind feels appropriately full", "label": "neutral"}
+{"text": "I feel caught in my worries", "label": "anxious"}
+{"text": "I feel freed from my worries", "label": "positive_low_energy"}
+{"text": "Everything feels like a threat today", "label": "anxious"}
+{"text": "Everything feels harmless today", "label": "neutral"}
+{"text": "I feel unable to relax", "label": "anxious"}
+{"text": "I feel relaxed enough", "label": "neutral"}
+{"text": "This assignment is defeating me", "label": "negative_low_energy"}
+{"text": "This assignment is boosting me", "label": "positive_high_energy"}
+{"text": "I feel crushed by expectations", "label": "negative_high_stress"}
+{"text": "I feel lifted by expectations", "label": "positive_low_energy"}
+{"text": "Stress keeps tightening around me", "label": "anxious"}
+{"text": "Stress keeps releasing its grip on me", "label": "neutral"}
+{"text": "I feel too nervous to think", "label": "anxious"}
+{"text": "I feel calm enough to think", "label": "neutral"}
+{"text": "This situation is overwhelming my senses", "label": "anxious"}
+{"text": "This situation is steadying my senses", "label": "neutral"}
+{"text": "I feel like I am collapsing under pressure", "label": "negative_high_stress"}
+{"text": "I feel like I am climbing under pressure", "label": "positive_high_energy"}
+{"text": "Everything feels too intense", "label": "anxious"}
+{"text": "Everything feels appropriately intense", "label": "neutral"}
+{"text": "My fears keep getting louder", "label": "anxious"}
+{"text": "My fears keep getting quieter", "label": "positive_low_energy"}
+{"text": "I feel like the world is closing in on me", "label": "anxious"}
+{"text": "I feel like the world is opening up for me", "label": "positive_low_energy"}
+{"text": "My stress is getting worse", "label": "negative_high_stress"}
+{"text": "My stress is easing off", "label": "neutral"}
+{"text": "I cannot stop feeling uneasy", "label": "anxious"}
+{"text": "I no longer feel uneasy", "label": "neutral"}
+{"text": "This moment feels too much to handle", "label": "negative_high_stress"}
+{"text": "This moment feels simple to handle", "label": "neutral"}
+{"text": "I feel drained mentally", "label": "negative_low_energy"}
+{"text": "I feel restored mentally", "label": "positive_low_energy"}
+{"text": "My anxiety is rising fast", "label": "anxious"}
+{"text": "My mood is rising fast", "label": "positive_high_energy"}
+{"text": "I feel like I cannot slow down my mind", "label": "anxious"}
+{"text": "I feel like my mind is steady", "label": "neutral"}
+{"text": "This whole situation feels suffocating", "label": "negative_high_stress"}
+{"text": "This whole situation feels manageable", "label": "neutral"}
+{"text": "I am afraid everything will go wrong", "label": "anxious"}
+{"text": "I am not afraid anything will go wrong", "label": "neutral"}
+{"text": "My stress level feels unbearable", "label": "negative_high_stress"}
+{"text": "My stress level feels steady", "label": "neutral"}
+{"text": "Everything feels uncertain and scary", "label": "anxious"}
+{"text": "Everything feels predictable and calm", "label": "neutral"}
+{"text": "I feel like I am losing emotional stability", "label": "anxious"}
+{"text": "I feel like I am maintaining emotional stability", "label": "neutral"}
+{"text": "My worries are controlling me", "label": "anxious"}
+{"text": "My worries are quiet today", "label": "neutral"}
+{"text": "I feel pressure from every direction", "label": "negative_high_stress"}
+{"text": "I feel balance from every direction", "label": "neutral"}
+{"text": "This day is wearing me down", "label": "negative_low_energy"}
+{"text": "This day is building me up", "label": "positive_high_energy"}
+{"text": "I feel mentally exhausted", "label": "negative_low_energy"}
+{"text": "I feel mentally refreshed", "label": "positive_low_energy"}
+{"text": "Everything is stressing me out", "label": "negative_high_stress"}
+{"text": "Everything feels neutral today", "label": "neutral"}
+{"text": "I feel fear creeping into everything", "label": "anxious"}
+{"text": "I feel calmness creeping into everything", "label": "positive_low_energy"}
+{"text": "I feel overwhelmed by simple tasks", "label": "negative_high_stress"}
+{"text": "I feel confident about simple tasks", "label": "positive_high_energy"}
+{"text": "This pressure is overtaking my emotions", "label": "negative_high_stress"}
+{"text": "This pressure is shaping my confidence", "label": "positive_high_energy"}
+{"text": "I feel nervous about every detail", "label": "anxious"}
+{"text": "I feel indifferent to every detail", "label": "neutral"}
+{"text": "My thoughts are too chaotic", "label": "anxious"}
+{"text": "My thoughts are mildly active", "label": "neutral"}
+{"text": "Everything feels like it could fall apart", "label": "anxious"}
+{"text": "Everything feels stable enough", "label": "neutral"}
+{"text": "I feel constant tension in my mind", "label": "anxious"}
+{"text": "I feel no tension in my mind", "label": "neutral"}
+{"text": "I feel uneasy about my progress", "label": "anxious"}
+{"text": "I feel satisfied with my progress", "label": "positive_low_energy"}
+{"text": "I feel uncomfortable with how fast things move", "label": "anxious"}
+{"text": "I feel comfortable with how fast things move", "label": "neutral"}
+{"text": "I feel like I am losing momentum", "label": "negative_low_energy"}
+{"text": "I feel like I am gaining momentum", "label": "positive_high_energy"}
+{"text": "This workload is wearing down my energy", "label": "negative_low_energy"}
+{"text": "This workload is boosting my energy", "label": "positive_high_energy"}
+{"text": "I keep doubting myself", "label": "anxious"}
+{"text": "I do not doubt myself today", "label": "neutral"}
+{"text": "My stress keeps piling up", "label": "negative_high_stress"}
+{"text": "My calm keeps building up", "label": "neutral"}
+{"text": "I feel overwhelmed by noise", "label": "anxious"}
+{"text": "I feel neutral about noise", "label": "neutral"}
+{"text": "I feel strained and tired", "label": "negative_low_energy"}
+{"text": "I feel steady and rested", "label": "neutral"}
+{"text": "My nerves are on edge", "label": "anxious"}
+{"text": "My nerves are relaxed", "label": "neutral"}
+{"text": "I feel anxious about the unknown", "label": "anxious"}
+{"text": "I feel peaceful about the unknown", "label": "positive_low_energy"}
+{"text": "Everything is pressuring me at once", "label": "negative_high_stress"}
+{"text": "Everything is supporting me at once", "label": "positive_low_energy"}
+{"text": "I feel like I am drowning emotionally", "label": "negative_high_stress"}
+{"text": "I feel like I am floating emotionally", "label": "positive_low_energy"}
+{"text": "I feel helpless against my workload", "label": "negative_low_energy"}
+{"text": "I feel capable against my workload", "label": "positive_high_energy"}
+{"text": "My fears keep consuming me", "label": "anxious"}
+{"text": "My fears keep shrinking", "label": "positive_low_energy"}
+{"text": "I feel like I am not enough", "label": "negative_low_energy"}
+{"text": "I feel like I am more than enough", "label": "positive_low_energy"}
+{"text": "The stress today feels unbearable", "label": "negative_high_stress"}
+{"text": "The stress today feels minimal", "label": "neutral"}
+{"text": "I feel rushed and panicked", "label": "anxious"}
+{"text": "I feel calm and unrushed", "label": "neutral"}
+{"text": "Everything feels too overwhelming right now", "label": "negative_high_stress"}
+{"text": "Everything feels easy enough right now", "label": "neutral"}
+{"text": "I am terrified of messing up", "label": "anxious"}
+{"text": "I am not worried about messing up", "label": "neutral"}
+{"text": "This responsibility is crushing me emotionally", "label": "negative_high_stress"}
+{"text": "This responsibility is strengthening me emotionally", "label": "positive_low_energy"}
+{"text": "I feel like everything is slipping away", "label": "negative_low_energy"}
+{"text": "I feel like everything is coming together", "label": "positive_low_energy"}
+{"text": "My emotional state is collapsing", "label": "negative_high_stress"}
+{"text": "My emotional state is improving", "label": "positive_low_energy"}
+{"text": "I feel like I am losing my balance", "label": "anxious"}
+{"text": "I feel balanced today", "label": "neutral"}
+{"text": "I feel unsure about everything", "label": "anxious"}
+{"text": "I feel neutral about everything", "label": "neutral"}
+{"text": "My anxiety is getting louder", "label": "anxious"}
+{"text": "My anxiety is quiet today", "label": "neutral"}
+{"text": "I feel nervous even without a reason", "label": "anxious"}
+{"text": "I feel steady even without a reason", "label": "neutral"}
+{"text": "Stress feels unavoidable", "label": "negative_high_stress"}
+{"text": "Stress feels distant", "label": "neutral"}
+{"text": "I feel overwhelmed by how fast things change", "label": "anxious"}
+{"text": "I feel calm about how fast things change", "label": "neutral"}
+{"text": "This pressure is breaking down my confidence", "label": "negative_high_stress"}
+{"text": "This pressure is building up my confidence", "label": "positive_high_energy"}
+{"text": "I feel emotionally unstable today", "label": "anxious"}
+{"text": "I feel emotionally stable today", "label": "neutral"}
+{"text": "Everything feels too demanding", "label": "negative_high_stress"}
+{"text": "Everything feels reasonably demanding", "label": "neutral"}
+{"text": "I feel anxious about losing progress", "label": "anxious"}
+{"text": "I feel calm about my progress", "label": "neutral"}
+{"text": "My stress feels uncontrollable", "label": "negative_high_stress"}
+{"text": "My stress feels controlled", "label": "neutral"}
+{"text": "I feel like my thoughts are closing in", "label": "anxious"}
+{"text": "I feel like my thoughts are clearing out", "label": "neutral"}
+{"text": "This day feels too intense emotionally", "label": "anxious"}
+{"text": "This day feels neutral emotionally", "label": "neutral"}
+{"text": "I feel nervous about every small thing", "label": "anxious"}
+{"text": "I feel indifferent about every small thing", "label": "neutral"}
+{"text": "My energy is slipping away", "label": "negative_low_energy"}
+{"text": "My energy is returning to me", "label": "positive_low_energy"}
+{"text": "I feel like everything is collapsing at once", "label": "negative_high_stress"}
+{"text": "I feel like everything is manageable at once", "label": "neutral"}
+{"text": "My worries feel heavier today", "label": "anxious"}
+{"text": "My worries feel lighter today", "label": "positive_low_energy"}
+{"text": "This moment feels suffocating", "label": "negative_high_stress"}
+{"text": "This moment feels steady", "label": "neutral"}
+{"text": "I feel like I am falling behind emotionally", "label": "negative_low_energy"}
+{"text": "I feel like I am catching up emotionally", "label": "positive_low_energy"}
+{"text": "Today feels emotionally draining", "label": "negative_low_energy"}
+{"text": "Today feels emotionally uplifting", "label": "positive_low_energy"}
+{"text": "I feel restless and uneasy", "label": "anxious"}
+{"text": "I feel content and steady", "label": "neutral"}
+{"text": "Stress feels overwhelming today", "label": "negative_high_stress"}
+{"text": "Stress feels mild today", "label": "neutral"}
+{"text": "I feel tension everywhere", "label": "anxious"}
+{"text": "I feel ease everywhere", "label": "neutral"}
+{"text": "I feel like my emotions are spiraling", "label": "anxious"}
+{"text": "I feel like my emotions are leveling", "label": "neutral"}
+{"text": "Everything feels unpredictable and stressful", "label": "negative_high_stress"}
+{"text": "Everything feels predictable and neutral", "label": "neutral"}
+{"text": "I feel nervous about moving forward", "label": "anxious"}
+{"text": "I feel confident about moving forward", "label": "positive_high_energy"}
+{"text": "I feel stuck inside my thoughts", "label": "anxious"}
+{"text": "I feel free inside my thoughts", "label": "neutral"}
+{"text": "My stress feels like it's at a peak", "label": "negative_high_stress"}
+{"text": "My stress feels like it's stabilizing", "label": "neutral"}
+{"text": "I feel afraid something will go wrong", "label": "anxious"}
+{"text": "I feel calm knowing things will be fine", "label": "neutral"}
+{"text": "This workload is defeating me emotionally", "label": "negative_low_energy"}
+{"text": "This workload is elevating me emotionally", "label": "positive_high_energy"}
+{"text": "I feel like I am constantly behind", "label": "negative_low_energy"}
+{"text": "I feel like I am comfortably ahead", "label": "positive_low_energy"}
+{"text": "My thoughts are too loud today", "label": "anxious"}
+{"text": "My thoughts are quiet today", "label": "neutral"}
+{"text": "Everything feels too fast and stressful", "label": "negative_high_stress"}
+{"text": "Everything feels paced and manageable", "label": "neutral"}
+{"text": "I feel overwhelmed by expectations", "label": "negative_high_stress"}
+{"text": "I feel inspired by expectations", "label": "positive_high_energy"}
+{"text": "My nerves keep tightening", "label": "anxious"}
+{"text": "My nerves keep loosening", "label": "neutral"}
+{"text": "I feel anxious about slipping up", "label": "anxious"}
+{"text": "I feel neutral about slipping up", "label": "neutral"}
+{"text": "This pressure feels unbearable", "label": "negative_high_stress"}
+{"text": "This pressure feels reasonable", "label": "neutral"}
+{"text": "I feel suffocated by my thoughts", "label": "anxious"}
+{"text": "I feel open and clear in my thoughts", "label": "neutral"}
+{"text": "My emotions feel too heavy", "label": "negative_low_energy"}
+{"text": "My emotions feel light", "label": "positive_low_energy"}
+{"text": "I feel tension rising", "label": "anxious"}
+{"text": "I feel calm rising", "label": "positive_low_energy"}
+{"text": "I feel overwhelmed by uncertainty", "label": "anxious"}
+{"text": "I feel at ease with uncertainty", "label": "positive_low_energy"}
+{"text": "Everything feels like a burden today", "label": "negative_low_energy"}
+{"text": "Everything feels achievable today", "label": "positive_low_energy"}
+{"text": "I feel hopelessly overwhelmed", "label": "negative_high_stress"}
+{"text": "I feel hopeful and energized", "label": "positive_high_energy"}
+{"text": "Stress keeps consuming my day", "label": "negative_high_stress"}
+{"text": "Momentum keeps fueling my day", "label": "positive_high_energy"}
+{"text": "I feel like tension is building everywhere", "label": "anxious"}
+{"text": "I feel like peace is building everywhere", "label": "neutral"}
+{"text": "My worries are spiraling", "label": "anxious"}
+{"text": "My worries are dissolving", "label": "positive_low_energy"}
+{"text": "I am terrified of falling behind", "label": "anxious"}
+{"text": "I am comfortable with where I am", "label": "neutral"}
+{"text": "This workload feels like too much mentally", "label": "negative_high_stress"}
+{"text": "This workload feels mentally manageable", "label": "neutral"}
+{"text": "I feel emotionally stuck", "label": "negative_low_energy"}
+{"text": "I feel emotionally flexible", "label": "positive_low_energy"}
+{"text": "My stress is getting worse by the minute", "label": "negative_high_stress"}
+{"text": "My stress is fading by the minute", "label": "neutral"}
+{"text": "I feel like everything is pressuring me at once", "label": "negative_high_stress"}
+{"text": "I feel like support is coming from all sides", "label": "positive_low_energy"}
+{"text": "My thoughts feel unstable", "label": "anxious"}
+{"text": "My thoughts feel neutral", "label": "neutral"}
+{"text": "I feel mentally scattered", "label": "anxious"}
+{"text": "I feel mentally organized", "label": "neutral"}
+{"text": "I feel frightened by the pace of everything", "label": "anxious"}
+{"text": "I feel excited by the pace of everything", "label": "positive_high_energy"}
+{"text": "My emotions are too intense today", "label": "anxious"}
+{"text": "My emotions are quiet today", "label": "neutral"}
+{"text": "I feel too drained to function", "label": "negative_low_energy"}
+{"text": "I feel restored enough to function", "label": "positive_low_energy"}
+{"text": "I feel stuck under mounting pressure", "label": "negative_high_stress"}
+{"text": "I feel strong under mounting pressure", "label": "positive_high_energy"}
+{"text": "My anxiety keeps rising", "label": "anxious"}
+{"text": "My calm keeps rising", "label": "neutral"}
+{"text": "I feel like I cannot breathe emotionally", "label": "negative_high_stress"}
+{"text": "I feel like I can breathe emotionally", "label": "neutral"}
+{"text": "Stress today feels overwhelming", "label": "negative_high_stress"}
+{"text": "Stress today feels neutral", "label": "neutral"}
+{"text": "Everything feels like it's crashing down", "label": "negative_high_stress"}
+{"text": "Everything feels like it's building up", "label": "positive_high_energy"}
+{"text": "I feel exhausted emotionally", "label": "negative_low_energy"}
+{"text": "I feel uplifted emotionally", "label": "positive_low_energy"}
+{"text": "I feel uneasy about what might happen", "label": "anxious"}
+{"text": "I feel neutral about what might happen", "label": "neutral"}
+{"text": "I keep stressing about everything", "label": "negative_high_stress"}
+{"text": "I am not stressed about anything", "label": "neutral"}
+{"text": "My nerves feel shot", "label": "anxious"}
+{"text": "My nerves feel stable", "label": "neutral"}
+{"text": "I feel tense from the moment I woke up", "label": "anxious"}
+{"text": "I feel calm from the moment I woke up", "label": "positive_low_energy"}
+{"text": "My workload has me anxious", "label": "anxious"}
+{"text": "My workload feels balanced", "label": "neutral"}
+{"text": "Everything feels like I am falling behind", "label": "negative_low_energy"}
+{"text": "Everything feels like I am getting ahead", "label": "positive_low_energy"}
+{"text": "I feel overstretched emotionally", "label": "negative_low_energy"}
+{"text": "I feel emotionally steady", "label": "neutral"}
+{"text": "I feel like pressure is breaking me", "label": "negative_high_stress"}
+{"text": "I feel like pressure is shaping me", "label": "positive_high_energy"}
+{"text": "I feel anxious about disappointing myself", "label": "anxious"}
+{"text": "I feel confident in myself", "label": "positive_high_energy"}
+{"text": "My worries keep rushing in", "label": "anxious"}
+{"text": "My worries keep slowing down", "label": "neutral"}
+{"text": "I feel emotionally overwhelmed by everything", "label": "negative_high_stress"}
+{"text": "I feel emotionally neutral about everything", "label": "neutral"}
+{"text": "I feel drained from trying to keep up", "label": "negative_low_energy"}
+{"text": "I feel energized from keeping up", "label": "positive_high_energy"}
+{"text": "My stress feels unmanageable", "label": "negative_high_stress"}
+{"text": "My stress feels manageable", "label": "neutral"}
+{"text": "I feel anxious and unable to focus", "label": "anxious"}
+{"text": "I feel calm and able to focus", "label": "positive_low_energy"}
+{"text": "Everything feels threatening today", "label": "anxious"}
+{"text": "Everything feels plain today", "label": "neutral"}
+{"text": "I feel emotionally weighed down today", "label": "negative_low_energy"}
+{"text": "I feel emotionally lifted today", "label": "positive_low_energy"}
+{"text": "I feel strained by every task", "label": "negative_high_stress"}
+{"text": "I feel strengthened by every task", "label": "positive_high_energy"}
+{"text": "My anxiety feels uncontrollable today", "label": "anxious"}
+{"text": "My anxiety feels minimal today", "label": "neutral"}
+{"text": "I feel overwhelmed by tiny problems", "label": "negative_high_stress"}
+{"text": "I feel unbothered by tiny problems", "label": "neutral"}
+{"text": "Stress is tearing down my energy", "label": "negative_low_energy"}
+{"text": "Stress is boosting my energy", "label": "positive_high_energy"}
+{"text": "I feel mentally boxed in", "label": "anxious"}
+{"text": "I feel mentally open", "label": "neutral"}
+{"text": "My worries feel endless", "label": "anxious"}
+{"text": "My worries feel temporary", "label": "neutral"}
+{"text": "Everything feels emotionally heavy", "label": "negative_low_energy"}
+{"text": "Everything feels emotionally light", "label": "positive_low_energy"}
+{"text": "I feel like tension surrounds me", "label": "anxious"}
+{"text": "I feel like calm surrounds me", "label": "neutral"}
+{"text": "This workload is too mentally taxing", "label": "negative_high_stress"}
+{"text": "This workload is mentally doable", "label": "neutral"}
+{"text": "I feel anxious about every outcome", "label": "anxious"}
+{"text": "I feel neutral about every outcome", "label": "neutral"}
+{"text": "Pressure keeps draining me", "label": "negative_low_energy"}
+{"text": "Pressure keeps motivating me", "label": "positive_high_energy"}
+{"text": "My stress level is rising fast", "label": "negative_high_stress"}
+{"text": "My stress level is falling fast", "label": "neutral"}
+{"text": "I feel lost under all this pressure", "label": "negative_high_stress"}
+{"text": "I feel directed under all this pressure", "label": "positive_high_energy"}
+{"text": "Everything feels overwhelming to consider", "label": "anxious"}
+{"text": "Everything feels simple to consider", "label": "neutral"}
+{"text": "My nerves are extremely tense today", "label": "anxious"}
+{"text": "My nerves are relaxed today", "label": "neutral"}
+{"text": "I feel emotionally out of control", "label": "anxious"}
+{"text": "I feel emotionally balanced", "label": "neutral"}
+{"text": "My anxiety is dominating my thoughts", "label": "anxious"}
+{"text": "My calmness is dominating my thoughts", "label": "neutral"}
+{"text": "I feel unsure about my ability to keep up", "label": "anxious"}
+{"text": "I feel confident I can keep up", "label": "positive_high_energy"}
+{"text": "Everything feels mentally exhausting", "label": "negative_low_energy"}
+{"text": "Everything feels mentally refreshing", "label": "positive_low_energy"}
+{"text": "I feel overwhelmed trying to stay ahead", "label": "negative_high_stress"}
+{"text": "I feel energized trying to stay ahead", "label": "positive_high_energy"}
+{"text": "This task feels emotionally impossible", "label": "negative_high_stress"}
+{"text": "This task feels emotionally simple", "label": "neutral"}
+{"text": "I feel flooded with anxious thoughts", "label": "anxious"}
+{"text": "I feel free from anxious thoughts", "label": "neutral"}
+{"text": "My emotions feel too unstable", "label": "anxious"}
+{"text": "My emotions feel steady", "label": "neutral"}
+{"text": "I feel mentally overloaded", "label": "negative_low_energy"}
+{"text": "I feel mentally charged", "label": "positive_high_energy"}
+{"text": "Everything makes me uneasy today", "label": "anxious"}
+{"text": "Everything feels neutral to me today", "label": "neutral"}
+{"text": "I feel like pressure is swallowing me", "label": "negative_high_stress"}
+{"text": "I feel like pressure is motivating me", "label": "positive_high_energy"}
+{"text": "My worries feel overpowering", "label": "anxious"}
+{"text": "My worries feel insignificant", "label": "neutral"}
+{"text": "I feel scared of making mistakes", "label": "anxious"}
+{"text": "I feel indifferent to making mistakes", "label": "neutral"}
+{"text": "This workload keeps stressing me out", "label": "negative_high_stress"}
+{"text": "This workload keeps exciting me", "label": "positive_high_energy"}
+{"text": "I feel weakened by everything today", "label": "negative_low_energy"}
+{"text": "I feel strengthened by everything today", "label": "positive_low_energy"}
+{"text": "Pressure keeps tightening my emotions", "label": "anxious"}
+{"text": "Pressure keeps loosening my emotions", "label": "neutral"}
+{"text": "I feel anxious about disappointing others", "label": "anxious"}
+{"text": "I feel confident around others", "label": "positive_low_energy"}
+{"text": "My mind feels unstable", "label": "anxious"}
+{"text": "My mind feels balanced", "label": "neutral"}
+{"text": "I feel overwhelmed by constant expectations", "label": "negative_high_stress"}
+{"text": "I feel supported by constant expectations", "label": "positive_low_energy"}
+{"text": "I feel emotionally outmatched", "label": "negative_low_energy"}
+{"text": "I feel emotionally capable", "label": "positive_low_energy"}
+{"text": "My anxiety feels louder with each hour", "label": "anxious"}
+{"text": "My anxiety feels quieter with each hour", "label": "neutral"}
+{"text": "I feel weighed down by responsibilities", "label": "negative_low_energy"}
+{"text": "I feel lifted by responsibilities", "label": "positive_low_energy"}
+{"text": "Pressure feels unbearable right now", "label": "negative_high_stress"}
+{"text": "Pressure feels manageable right now", "label": "neutral"}
+{"text": "I feel like stress is pulling me under", "label": "negative_high_stress"}
+{"text": "I feel like motivation is pulling me forward", "label": "positive_high_energy"}
+{"text": "I feel overwhelmed thinking about tomorrow", "label": "anxious"}
+{"text": "I feel calm thinking about tomorrow", "label": "neutral"}
+{"text": "My emotions feel too tense", "label": "anxious"}
+{"text": "My emotions feel light and balanced", "label": "neutral"}
+{"text": "I feel scared I cannot handle today", "label": "anxious"}
+{"text": "I feel confident I can handle today", "label": "positive_high_energy"}
+{"text": "This situation feels too stressful", "label": "negative_high_stress"}
+{"text": "This situation feels low stress", "label": "neutral"}
+{"text": "I feel pressure weighing me down", "label": "negative_low_energy"}
+{"text": "I feel pressure lifting me up", "label": "positive_high_energy"}
+{"text": "My worries keep rising uncontrollably", "label": "anxious"}
+{"text": "My worries keep settling", "label": "neutral"}
+{"text": "I feel too anxious to think clearly", "label": "anxious"}
+{"text": "I feel calm enough to think clearly", "label": "positive_low_energy"}
+{"text": "Stress is clouding my judgment", "label": "negative_high_stress"}
+{"text": "Calm is clarifying my judgment", "label": "neutral"}
+{"text": "Today I hit the ground running", "label": "positive_high_energy"}
+{"text": "I decided to take the world by storm", "label": "positive_high_energy"}
+{"text": "I really fired on all cylinders today", "label": "positive_high_energy"}
+{"text": "I knocked it out of the park this morning", "label": "positive_high_energy"}
+{"text": "I tried to blaze a new trail today", "label": "positive_high_energy"}
+{"text": "I was on a roll all afternoon", "label": "positive_high_energy"}
+{"text": "I raised the bar for myself today", "label": "positive_high_energy"}
+{"text": "I brought the heat on this project", "label": "positive_high_energy"}
+{"text": "I swung for the fences with that idea", "label": "positive_high_energy"}
+{"text": "I felt unstoppable and ready for anything", "label": "positive_high_energy"}
+{"text": "I moved mountains to finish this task", "label": "positive_high_energy"}
+{"text": "I grabbed the chance and ran with it", "label": "positive_high_energy"}
+{"text": "I kicked things into high gear this morning", "label": "positive_high_energy"}
+{"text": "I climbed the ladder a little higher today", "label": "positive_high_energy"}
+{"text": "I took everything up a notch today", "label": "positive_high_energy"}
+{"text": "I went with the flow and kept things light", "label": "positive_low_energy"}
+{"text": "I took things in stride today", "label": "positive_low_energy"}
+{"text": "I rested easy knowing I did my best", "label": "positive_low_energy"}
+{"text": "I breathed easy through the afternoon", "label": "positive_low_energy"}
+{"text": "I kept an even keel despite everything", "label": "positive_low_energy"}
+{"text": "I found my balance again today", "label": "positive_low_energy"}
+{"text": "I stayed in a good headspace", "label": "positive_low_energy"}
+{"text": "I stayed in my lane and kept things calm", "label": "positive_low_energy"}
+{"text": "I floated through the day without stress", "label": "positive_low_energy"}
+{"text": "I let things settle on their own", "label": "positive_low_energy"}
+{"text": "I felt grounded all day", "label": "positive_low_energy"}
+{"text": "I rode it out smoothly", "label": "positive_low_energy"}
+{"text": "I took it one day at a time", "label": "positive_low_energy"}
+{"text": "I kept things steady today", "label": "positive_low_energy"}
+{"text": "I ran out of steam before noon", "label": "negative_low_energy"}
+{"text": "I felt like I was running on fumes", "label": "negative_low_energy"}
+{"text": "I hit a wall during the afternoon", "label": "negative_low_energy"}
+{"text": "I was spread too thin today", "label": "negative_low_energy"}
+{"text": "I got stuck in the mud with my tasks", "label": "negative_low_energy"}
+{"text": "I felt completely wiped out", "label": "negative_low_energy"}
+{"text": "I was burned out by lunchtime", "label": "negative_low_energy"}
+{"text": "I dragged my feet through everything", "label": "negative_low_energy"}
+{"text": "I felt totally washed out", "label": "negative_low_energy"}
+{"text": "I carried the world on my shoulders today", "label": "negative_low_energy"}
+{"text": "I limped through the day barely functioning", "label": "negative_low_energy"}
+{"text": "I got bogged down by everything", "label": "negative_low_energy"}
+{"text": "I felt like I was hanging by a thread", "label": "negative_low_energy"}
+{"text": "I felt like dead weight all morning", "label": "negative_low_energy"}
+{"text": "I felt like my back was against the wall", "label": "negative_high_stress"}
+{"text": "I was drowning in pressure all day", "label": "negative_high_stress"}
+{"text": "It felt like the walls were closing in", "label": "negative_high_stress"}
+{"text": "I felt like I was under fire from all sides", "label": "negative_high_stress"}
+{"text": "I walked on eggshells the whole day", "label": "negative_high_stress"}
+{"text": "I felt like I was in hot water again", "label": "negative_high_stress"}
+{"text": "I was skating on thin ice with this deadline", "label": "negative_high_stress"}
+{"text": "I felt myself spiraling out of control", "label": "negative_high_stress"}
+{"text": "I got backed into a corner mentally", "label": "negative_high_stress"}
+{"text": "I felt like I was losing my grip", "label": "negative_high_stress"}
+{"text": "I was caught between a rock and a hard place", "label": "negative_high_stress"}
+{"text": "I felt the heat rising around me", "label": "negative_high_stress"}
+{"text": "I realized I was in deep trouble", "label": "negative_high_stress"}
+{"text": "I felt like I was on the brink today", "label": "negative_high_stress"}
+{"text": "I waited for the other shoe to drop", "label": "anxious"}
+{"text": "I had butterflies in my stomach all morning", "label": "anxious"}
+{"text": "My heart was in my throat during the meeting", "label": "anxious"}
+{"text": "I kept jumping at shadows today", "label": "anxious"}
+{"text": "I got cold feet again", "label": "anxious"}
+{"text": "I expected the worst for no reason", "label": "anxious"}
+{"text": "I practically worried myself sick", "label": "anxious"}
+{"text": "I spent the morning bracing for impact", "label": "anxious"}
+{"text": "I stayed on edge the whole day", "label": "anxious"}
+{"text": "I felt the tension rising everywhere", "label": "anxious"}
+{"text": "My nerves felt like glass", "label": "anxious"}
+{"text": "I was afraid of my own shadow today", "label": "anxious"}
+{"text": "I felt a storm brewing in my mind", "label": "anxious"}
+{"text": "I kept treading lightly around everything", "label": "anxious"}
+{"text": "I tried to cross that bridge when I got there", "label": "neutral"}
+{"text": "I took a step back to think", "label": "neutral"}
+{"text": "I played it by ear today", "label": "neutral"}
+{"text": "I tried to see the big picture", "label": "neutral"}
+{"text": "I turned the page and moved on", "label": "neutral"}
+{"text": "I touched base with everyone I needed to", "label": "neutral"}
+{"text": "I tested the waters before diving in", "label": "neutral"}
+{"text": "I went back to square one on the problem", "label": "neutral"}
+{"text": "I kept the ball rolling all day", "label": "neutral"}
+{"text": "I let the chips fall where they may", "label": "neutral"}
+{"text": "I stayed the course even when it got boring", "label": "neutral"}
+{"text": "I found middle ground during the discussion", "label": "neutral"}
+{"text": "I took the long view instead of rushing", "label": "neutral"}
+{"text": "I called it how I saw it", "label": "neutral"}
+{"text": "I pulled out all the stops today", "label": "positive_high_energy"}
+{"text": "I went the extra mile on that task", "label": "positive_high_energy"}
+{"text": "I gave it everything but the kitchen sink", "label": "positive_high_energy"}
+{"text": "I grabbed the bull by the horns", "label": "positive_high_energy"}
+{"text": "I jumped the gun but it worked out", "label": "positive_high_energy"}
+{"text": "I kept the pedal to the metal", "label": "positive_high_energy"}
+{"text": "I set the world on fire with that idea", "label": "positive_high_energy"}
+{"text": "I took the reins and led the charge", "label": "positive_high_energy"}
+{"text": "I hit my stride this afternoon", "label": "positive_high_energy"}
+{"text": "I made waves with my work today", "label": "positive_high_energy"}
+{"text": "I cut to the chase and got it done", "label": "positive_high_energy"}
+{"text": "I turned things around in record time", "label": "positive_high_energy"}
+{"text": "I broke new ground with that solution", "label": "positive_high_energy"}
+{"text": "I hit my peak at the perfect time", "label": "positive_high_energy"}
+{"text": "I found my groove today", "label": "positive_low_energy"}
+{"text": "I kept the peace and stayed calm", "label": "positive_low_energy"}
+{"text": "I slowed down and smelled the roses", "label": "positive_low_energy"}
+{"text": "I let nature take its course", "label": "positive_low_energy"}
+{"text": "I stayed cool as a cucumber", "label": "positive_low_energy"}
+{"text": "I took the route of least resistance", "label": "positive_low_energy"}
+{"text": "I kept my hair on during the chaos", "label": "positive_low_energy"}
+{"text": "I laid low and relaxed", "label": "positive_low_energy"}
+{"text": "I stayed chill and didn\u2019t react", "label": "positive_low_energy"}
+{"text": "I eased into the day without stress", "label": "positive_low_energy"}
+{"text": "I stayed composed no matter what", "label": "positive_low_energy"}
+{"text": "I kept my cool the whole time", "label": "positive_low_energy"}
+{"text": "I laid back and let things happen", "label": "positive_low_energy"}
+{"text": "I acted like it was water off a duck\u2019s back", "label": "positive_low_energy"}
+{"text": "I felt like the wind was knocked out of my sails", "label": "negative_low_energy"}
+{"text": "I fell flat on my face trying to finish", "label": "negative_low_energy"}
+{"text": "I threw in the towel halfway through", "label": "negative_low_energy"}
+{"text": "I felt like I was going nowhere fast", "label": "negative_low_energy"}
+{"text": "I hit rock bottom with my motivation", "label": "negative_low_energy"}
+{"text": "I barely kept my head above water", "label": "negative_low_energy"}
+{"text": "I let things slip through my fingers", "label": "negative_low_energy"}
+{"text": "I fell off the wagon again today", "label": "negative_low_energy"}
+{"text": "I felt like a fish out of water", "label": "negative_low_energy"}
+{"text": "I let the ball drop again", "label": "negative_low_energy"}
+{"text": "I dragged myself across the finish line", "label": "negative_low_energy"}
+{"text": "I phoned it in today", "label": "negative_low_energy"}
+{"text": "I sat on my hands and accomplished nothing", "label": "negative_low_energy"}
+{"text": "I came apart at the seams", "label": "negative_high_stress"}
+{"text": "I felt like I was melting down", "label": "negative_high_stress"}
+{"text": "I was barely keeping it together", "label": "negative_high_stress"}
+{"text": "I found myself going over the edge", "label": "negative_high_stress"}
+{"text": "I felt like I was about to blow a fuse", "label": "negative_high_stress"}
+{"text": "I lost my footing and panicked", "label": "negative_high_stress"}
+{"text": "I felt like I walked straight into the lion\u2019s den", "label": "negative_high_stress"}
+{"text": "I got thrown into the deep end", "label": "negative_high_stress"}
+{"text": "I was burning the candle at both ends", "label": "negative_high_stress"}
+{"text": "I felt like I was playing with fire", "label": "negative_high_stress"}
+{"text": "I was pushed to the breaking point", "label": "negative_high_stress"}
+{"text": "I got caught in the crossfire", "label": "negative_high_stress"}
+{"text": "I felt like I had a target on my back", "label": "negative_high_stress"}
+{"text": "I stirred up a hornet\u2019s nest", "label": "negative_high_stress"}
+{"text": "I kept waiting for the other shoe to drop again", "label": "anxious"}
+{"text": "I felt ants in my pants all morning", "label": "anxious"}
+{"text": "I got cold feet right before starting", "label": "anxious"}
+{"text": "I felt a knot in my stomach the whole time", "label": "anxious"}
+{"text": "I tiptoed around like something would go wrong", "label": "anxious"}
+{"text": "I felt like I was on pins and needles", "label": "anxious"}
+{"text": "I felt a chill run up my spine", "label": "anxious"}
+{"text": "I worried myself into a corner", "label": "anxious"}
+{"text": "I felt jumpy at every little thing", "label": "anxious"}
+{"text": "I kept second guessing everything", "label": "anxious"}
+{"text": "I sat there biting my nails", "label": "anxious"}
+{"text": "I had trouble keeping my nerves in check", "label": "anxious"}
+{"text": "I felt the jitters all day", "label": "anxious"}
+{"text": "I acted like a deer in headlights", "label": "anxious"}
+{"text": "I tried to turn the page on the whole situation", "label": "neutral"}
+{"text": "I took a step back and watched things unfold", "label": "neutral"}
+{"text": "I played it by ear for the entire project", "label": "neutral"}
+{"text": "I kept everything in perspective", "label": "neutral"}
+{"text": "I checked all the boxes today", "label": "neutral"}
+{"text": "I kept the ball rolling without rushing", "label": "neutral"}
+{"text": "I found some middle ground in the argument", "label": "neutral"}
+{"text": "I went back to square one calmly", "label": "neutral"}
+{"text": "I let the chips fall where they may again", "label": "neutral"}
+{"text": "I stuck to the plan and stayed the course", "label": "neutral"}
+{"text": "I took the long view instead of stressing", "label": "neutral"}
+{"text": "I rolled the dice and accepted whatever happened", "label": "neutral"}
+{"text": "I called it like I saw it", "label": "neutral"}
+{"text": "I pulled out all the stops to get it done fast", "label": "positive_high_energy"}
+{"text": "I hit the jackpot with that decision", "label": "positive_high_energy"}
+{"text": "I shot for the stars without hesitation", "label": "positive_high_energy"}
+{"text": "I grabbed the reins and took control", "label": "positive_high_energy"}
+{"text": "I jumped the gun because I felt confident", "label": "positive_high_energy"}
+{"text": "I kept my foot on the gas", "label": "positive_high_energy"}
+{"text": "I took the bull by the horns again", "label": "positive_high_energy"}
+{"text": "I kicked down the door metaphorically", "label": "positive_high_energy"}
+{"text": "I leveled up today", "label": "positive_high_energy"}
+{"text": "I hit pay dirt with that attempt", "label": "positive_high_energy"}
+{"text": "I made a big splash with my work", "label": "positive_high_energy"}
+{"text": "I went for broke and it paid off", "label": "positive_high_energy"}
+{"text": "I left no stone unturned", "label": "positive_high_energy"}
+{"text": "I struck while the iron was hot", "label": "positive_high_energy"}
+{"text": "I kept my cool and didn\u2019t overreact", "label": "positive_low_energy"}
+{"text": "I took the path of least resistance", "label": "positive_low_energy"}
+{"text": "I stayed cool as a cucumber", "label": "positive_low_energy"}
+{"text": "I took a breather and mellowed out", "label": "positive_low_energy"}
+{"text": "I let things unfold naturally", "label": "positive_low_energy"}
+{"text": "I laid low and stayed relaxed", "label": "positive_low_energy"}
+{"text": "I kept my hair on even when others didn\u2019t", "label": "positive_low_energy"}
+{"text": "I stayed chill through everything", "label": "positive_low_energy"}
+{"text": "I took my time instead of rushing", "label": "positive_low_energy"}
+{"text": "I loosened up and stayed calm", "label": "positive_low_energy"}
+{"text": "I eased into every task slowly", "label": "positive_low_energy"}
+{"text": "I maintained my composure all day", "label": "positive_low_energy"}
+{"text": "I laid back and let things happen", "label": "positive_low_energy"}
+{"text": "I acted like it was water off a duck\u2019s back again", "label": "positive_low_energy"}
+{"text": "I felt like the rug was pulled out from under me", "label": "negative_high_stress"}
+{"text": "I was blindsided out of nowhere", "label": "negative_high_stress"}
+{"text": "I felt like I was thrown under the bus", "label": "negative_high_stress"}
+{"text": "I spread myself too thin again", "label": "negative_low_energy"}
+{"text": "I lost steam before finishing", "label": "negative_low_energy"}
+{"text": "I let time slip through my fingers", "label": "negative_low_energy"}
+{"text": "I barely scraped by today", "label": "negative_low_energy"}
+{"text": "I let everything pile up on me", "label": "negative_low_energy"}
+{"text": "I felt like I had a monkey on my back", "label": "negative_low_energy"}
+{"text": "I felt like I drew the short straw", "label": "negative_low_energy"}
+{"text": "I took it on the chin again today", "label": "negative_low_energy"}
+{"text": "I went downhill fast this morning", "label": "negative_low_energy"}
+{"text": "I threw good energy after bad", "label": "negative_low_energy"}
+{"text": "I felt like I was treading water", "label": "negative_low_energy"}
+{"text": "I found myself spinning my wheels", "label": "negative_low_energy"}
+{"text": "I felt like I lost my spark today", "label": "negative_low_energy"}
+{"text": "I felt like I was carrying dead weight", "label": "negative_low_energy"}
+{"text": "I felt the pressure breathing down my neck", "label": "negative_high_stress"}
+{"text": "I went into the lion\u2019s mouth again", "label": "negative_high_stress"}
+{"text": "I stood in the line of fire all day", "label": "negative_high_stress"}
+{"text": "I walked right into a minefield", "label": "negative_high_stress"}
+{"text": "I was holding on by a thread emotionally", "label": "negative_high_stress"}
+{"text": "I felt like the tide was turning against me", "label": "negative_high_stress"}
+{"text": "I felt like I was skating on thin ice again", "label": "negative_high_stress"}
+{"text": "I kept feeling the ground shift under me", "label": "anxious"}
+{"text": "I felt a pit in my stomach for hours", "label": "anxious"}
+{"text": "I had a bad feeling in my bones", "label": "anxious"}
+{"text": "I felt like something was lurking around the corner", "label": "anxious"}
+{"text": "I worried every step of the way", "label": "anxious"}
+{"text": "I felt like I was tiptoeing through the day", "label": "anxious"}
+{"text": "I felt my nerves getting the best of me", "label": "anxious"}
+{"text": "I felt the weight of the world on me again", "label": "negative_high_stress"}
+{"text": "I felt like I was being crushed under pressure", "label": "negative_high_stress"}
+{"text": "I got caught holding the bag again", "label": "negative_high_stress"}
+{"text": "I felt backed into a corner emotionally", "label": "negative_high_stress"}
+{"text": "I walked straight into the eye of the storm", "label": "negative_high_stress"}
+{"text": "I kept trying to dodge bullets all day", "label": "negative_high_stress"}
+{"text": "I felt like I was in over my head", "label": "negative_high_stress"}
+{"text": "I was burning the candle at both ends again", "label": "negative_high_stress"}
+{"text": "I kept waiting for disaster to strike", "label": "anxious"}
+{"text": "I felt my nerves tying themselves in knots", "label": "anxious"}
+{"text": "I felt like something bad was about to happen", "label": "anxious"}
+{"text": "I found myself pacing back and forth", "label": "anxious"}
+{"text": "I couldn\u2019t shake the feeling of dread", "label": "anxious"}
+{"text": "I got spooked by every small thing", "label": "anxious"}
+{"text": "I felt uneasy from the moment I woke up", "label": "anxious"}
+{"text": "I felt the hairs on my neck stand up", "label": "anxious"}
+{"text": "I kept expecting things to go wrong", "label": "anxious"}
+{"text": "I stayed cautious and treaded lightly", "label": "anxious"}
+{"text": "I froze like a deer in headlights again", "label": "anxious"}
+{"text": "I rolled the dice and accepted the outcome", "label": "neutral"}
+{"text": "I stepped back and let things unfold", "label": "neutral"}
+{"text": "I looked at the big picture instead of stressing", "label": "neutral"}
+{"text": "I stayed on track and followed the plan", "label": "neutral"}
+{"text": "I checked the boxes and kept moving", "label": "neutral"}
+{"text": "I tried to keep everything in perspective", "label": "neutral"}
+{"text": "I let things happen without forcing them", "label": "neutral"}
+{"text": "I tried to stay the course no matter what", "label": "neutral"}
+{"text": "I took a breath and reset my focus", "label": "neutral"}
+{"text": "I accepted things as they were", "label": "neutral"}
+{"text": "I kept things simple and straightforward", "label": "neutral"}
+{"text": "I tried to find a middle path through it all", "label": "neutral"}
+{"text": "I tried to break new ground again", "label": "positive_high_energy"}
+{"text": "I shot out of the gate full speed", "label": "positive_high_energy"}
+{"text": "I gained momentum and never slowed down", "label": "positive_high_energy"}
+{"text": "I kept pushing the envelope", "label": "positive_high_energy"}
+{"text": "I turned the situation to my advantage", "label": "positive_high_energy"}
+{"text": "I made quick work of the whole task", "label": "positive_high_energy"}
+{"text": "I went above and beyond today", "label": "positive_high_energy"}
+{"text": "I took control and called the shots", "label": "positive_high_energy"}
+{"text": "I jumped at the chance to excel", "label": "positive_high_energy"}
+{"text": "I hit my stride without hesitation", "label": "positive_high_energy"}
+{"text": "I left a strong impression", "label": "positive_high_energy"}
+{"text": "I went all in without fear", "label": "positive_high_energy"}
+{"text": "I pushed myself to new heights", "label": "positive_high_energy"}
+{"text": "I powered through everything effortlessly", "label": "positive_high_energy"}
+{"text": "I took it slow and steady", "label": "positive_low_energy"}
+{"text": "I kept my cool the whole time", "label": "positive_low_energy"}
+{"text": "I tried not to make waves", "label": "positive_low_energy"}
+{"text": "I laid low and stayed quiet", "label": "positive_low_energy"}
+{"text": "I let the day unfold naturally", "label": "positive_low_energy"}
+{"text": "I stayed mellow from start to finish", "label": "positive_low_energy"}
+{"text": "I took my time and didn\u2019t rush", "label": "positive_low_energy"}
+{"text": "I stayed relaxed through it all", "label": "positive_low_energy"}
+{"text": "I kept things light and easy", "label": "positive_low_energy"}
+{"text": "I idled through the afternoon calmly", "label": "positive_low_energy"}
+{"text": "I stayed laid back without stressing", "label": "positive_low_energy"}
+{"text": "I kept everything peaceful and simple", "label": "positive_low_energy"}
+{"text": "I stayed centered the whole day", "label": "positive_low_energy"}
+{"text": "I took the easy road this time", "label": "positive_low_energy"}
+{"text": "I felt like my energy was draining fast", "label": "negative_low_energy"}
+{"text": "I was running on empty again", "label": "negative_low_energy"}
+{"text": "I barely had enough spark to begin", "label": "negative_low_energy"}
+{"text": "I felt like my battery was dead", "label": "negative_low_energy"}
+{"text": "I let myself slow to a crawl", "label": "negative_low_energy"}
+{"text": "I lost my rhythm almost immediately", "label": "negative_low_energy"}
+{"text": "I fell behind without meaning to", "label": "negative_low_energy"}
+{"text": "I felt myself sinking deeper", "label": "negative_low_energy"}
+{"text": "I dragged myself through each task", "label": "negative_low_energy"}
+{"text": "I barely kept my momentum alive", "label": "negative_low_energy"}
+{"text": "I spun my wheels and got nowhere", "label": "negative_low_energy"}
+{"text": "I hit rock bottom with my motivation again", "label": "negative_low_energy"}
+{"text": "I slipped further behind today", "label": "negative_low_energy"}
+{"text": "I felt completely run down", "label": "negative_low_energy"}
+{"text": "I felt like everything was blowing up in my face", "label": "negative_high_stress"}
+{"text": "I felt like I walked straight into chaos", "label": "negative_high_stress"}
+{"text": "I felt the pressure closing in again", "label": "negative_high_stress"}
+{"text": "I stood in the eye of the storm", "label": "negative_high_stress"}
+{"text": "I felt like trouble followed me around", "label": "negative_high_stress"}
+{"text": "I barely dodged disaster today", "label": "negative_high_stress"}
+{"text": "I felt the tension snapping around me", "label": "negative_high_stress"}
+{"text": "I was pushed right to the edge", "label": "negative_high_stress"}
+{"text": "I felt like I was headed for a meltdown", "label": "negative_high_stress"}
+{"text": "I dealt with crisis after crisis", "label": "negative_high_stress"}
+{"text": "I was thrown into the fire again", "label": "negative_high_stress"}
+{"text": "I was knee deep in problems", "label": "negative_high_stress"}
+{"text": "I stood on thin ice the whole day", "label": "negative_high_stress"}
+{"text": "I kept expecting chaos to break out", "label": "anxious"}
+{"text": "I felt like a storm cloud followed me", "label": "anxious"}
+{"text": "I felt a creeping sense of unease", "label": "anxious"}
+{"text": "I stayed alert for something to go wrong", "label": "anxious"}
+{"text": "I worried about every tiny detail", "label": "anxious"}
+{"text": "I kept overthinking everything", "label": "anxious"}
+{"text": "I felt my nerves buzzing all afternoon", "label": "anxious"}
+{"text": "I feared the worst at every turn", "label": "anxious"}
+{"text": "I scanned for danger constantly", "label": "anxious"}
+{"text": "I felt tense anticipating bad news", "label": "anxious"}
+{"text": "I triple checked everything out of worry", "label": "anxious"}
+{"text": "I kept imagining worst case scenarios", "label": "anxious"}
+{"text": "I felt like something was bound to go wrong", "label": "anxious"}
+{"text": "I paced nervously around the room", "label": "anxious"}
+{"text": "I took the long view and didn\u2019t rush decisions", "label": "neutral"}
+{"text": "I paused to read the situation", "label": "neutral"}
+{"text": "I kept everything neutral and balanced", "label": "neutral"}
+{"text": "I approached everything in moderation", "label": "neutral"}
+{"text": "I followed a steady rhythm today", "label": "neutral"}
+{"text": "I kept myself in check all morning", "label": "neutral"}
+{"text": "I made careful choices without emotion", "label": "neutral"}
+{"text": "I reflected instead of reacting", "label": "neutral"}
+{"text": "I tried to be objective for once", "label": "neutral"}
+{"text": "I separated my feelings from the situation", "label": "neutral"}
+{"text": "I stayed steady without overcommitting", "label": "neutral"}
+{"text": "I stayed the course without fear or excitement", "label": "neutral"}
+{"text": "I went through the motions calmly", "label": "neutral"}
+{"text": "I kept everything measured and reasonable", "label": "neutral"}
+{"text": "I gave it everything I had and pushed ahead", "label": "positive_high_energy"}
+{"text": "I shot forward with full confidence", "label": "positive_high_energy"}
+{"text": "I made a bold move without hesitation", "label": "positive_high_energy"}
+{"text": "I ran circles around my old limits", "label": "positive_high_energy"}
+{"text": "I stepped up to the plate immediately", "label": "positive_high_energy"}
+{"text": "I took charge like it was second nature", "label": "positive_high_energy"}
+{"text": "I powered through every obstacle", "label": "positive_high_energy"}
+{"text": "I tapped into a second wind", "label": "positive_high_energy"}
+{"text": "I stormed through my to-do list", "label": "positive_high_energy"}
+{"text": "I attacked each task head on", "label": "positive_high_energy"}
+{"text": "I rose to the occasion instantly", "label": "positive_high_energy"}
+{"text": "I picked up speed as the day went on", "label": "positive_high_energy"}
+{"text": "I went full throttle on everything", "label": "positive_high_energy"}
+{"text": "I played to win today", "label": "positive_high_energy"}
+{"text": "I took the high road and stayed calm", "label": "positive_low_energy"}
+{"text": "I let the day pass gently", "label": "positive_low_energy"}
+{"text": "I kept a soft pace without forcing anything", "label": "positive_low_energy"}
+{"text": "I stayed unbothered through delays", "label": "positive_low_energy"}
+{"text": "I didn\u2019t let anything ruffle my feathers", "label": "positive_low_energy"}
+{"text": "I moved at a comfortable pace", "label": "positive_low_energy"}
+{"text": "I stayed even tempered the whole time", "label": "positive_low_energy"}
+{"text": "I let go of the tension naturally", "label": "positive_low_energy"}
+{"text": "I eased my way through the morning", "label": "positive_low_energy"}
+{"text": "I stayed low stress and relaxed", "label": "positive_low_energy"}
+{"text": "I went with the natural flow of things", "label": "positive_low_energy"}
+{"text": "I stayed patient and open minded", "label": "positive_low_energy"}
+{"text": "I stayed mellow no matter what happened", "label": "positive_low_energy"}
+{"text": "I floated through the day effortlessly", "label": "positive_low_energy"}
+{"text": "I lost steam almost right away", "label": "negative_low_energy"}
+{"text": "I hit a slump and never recovered", "label": "negative_low_energy"}
+{"text": "I faded out halfway through the task", "label": "negative_low_energy"}
+{"text": "I couldn\u2019t get the ball rolling at all", "label": "negative_low_energy"}
+{"text": "I felt like excess baggage", "label": "negative_low_energy"}
+{"text": "I sank into a slow drag of a day", "label": "negative_low_energy"}
+{"text": "I never found my rhythm", "label": "negative_low_energy"}
+{"text": "I moved like I had weights on my legs", "label": "negative_low_energy"}
+{"text": "I had no spark from the start", "label": "negative_low_energy"}
+{"text": "I fell flat before I even began", "label": "negative_low_energy"}
+{"text": "I barely pushed myself an inch", "label": "negative_low_energy"}
+{"text": "I felt drained the instant I woke up", "label": "negative_low_energy"}
+{"text": "I slowed to a crawl mentally", "label": "negative_low_energy"}
+{"text": "I stalled out over and over again", "label": "negative_low_energy"}
+{"text": "I was holding on by a thread again", "label": "negative_high_stress"}
+{"text": "I played with fire without meaning to", "label": "negative_high_stress"}
+{"text": "I felt like the pressure was boiling over", "label": "negative_high_stress"}
+{"text": "I was stuck inside a pressure cooker", "label": "negative_high_stress"}
+{"text": "I tiptoed around like everything was dangerous", "label": "negative_high_stress"}
+{"text": "I trudged through a minefield of tasks", "label": "negative_high_stress"}
+{"text": "I felt the floor dropping under me", "label": "negative_high_stress"}
+{"text": "I sensed disaster waiting to happen", "label": "negative_high_stress"}
+{"text": "I walked straight into trouble", "label": "negative_high_stress"}
+{"text": "I kept getting blindsided", "label": "negative_high_stress"}
+{"text": "I barely kept myself from snapping", "label": "negative_high_stress"}
+{"text": "I felt like danger was everywhere", "label": "negative_high_stress"}
+{"text": "I was surrounded by chaos again", "label": "negative_high_stress"}
+{"text": "I fought an uphill battle all day", "label": "negative_high_stress"}
+{"text": "I felt the urge to panic all day", "label": "anxious"}
+{"text": "I imagined every worst possible outcome", "label": "anxious"}
+{"text": "I couldn\u2019t shake my nerves", "label": "anxious"}
+{"text": "I checked over my shoulder constantly", "label": "anxious"}
+{"text": "I felt like something bad was waiting", "label": "anxious"}
+{"text": "I kept fearing a sudden disaster", "label": "anxious"}
+{"text": "I stayed on pins and needles constantly", "label": "anxious"}
+{"text": "I overanalyzed every small detail", "label": "anxious"}
+{"text": "I felt uneasy whenever things got quiet", "label": "anxious"}
+{"text": "I braced myself for problems that never came", "label": "anxious"}
+{"text": "I worried myself into exhaustion", "label": "anxious"}
+{"text": "I felt like a storm was closing in", "label": "anxious"}
+{"text": "I tiptoed around every decision", "label": "anxious"}
+{"text": "I feared losing control all day", "label": "anxious"}
+{"text": "I took a neutral stance on everything", "label": "neutral"}
+{"text": "I approached the day with no strong feelings", "label": "neutral"}
+{"text": "I kept things middle of the road", "label": "neutral"}
+{"text": "I neither rushed nor dragged my feet", "label": "neutral"}
+{"text": "I stayed balanced between extremes", "label": "neutral"}
+{"text": "I made measured choices", "label": "neutral"}
+{"text": "I kept the day as predictable as possible", "label": "neutral"}
+{"text": "I accepted things without judgment", "label": "neutral"}
+{"text": "I followed a steady routine", "label": "neutral"}
+{"text": "I maintained a steady pace", "label": "neutral"}
+{"text": "I reacted calmly to every situation", "label": "neutral"}
+{"text": "I moved through the day without tension", "label": "neutral"}
+{"text": "I stuck to a simple rhythm", "label": "neutral"}
+{"text": "I stayed centered and objective", "label": "neutral"}
+{"text": "I went full steam ahead", "label": "positive_high_energy"}
+{"text": "I hit a winning streak with my work", "label": "positive_high_energy"}
+{"text": "I broke through my limits again", "label": "positive_high_energy"}
+{"text": "I took off like a rocket", "label": "positive_high_energy"}
+{"text": "I stepped into my power today", "label": "positive_high_energy"}
+{"text": "I ran the show confidently", "label": "positive_high_energy"}
+{"text": "I kept momentum strong all morning", "label": "positive_high_energy"}
+{"text": "I made power moves without hesitation", "label": "positive_high_energy"}
+{"text": "I charged through every barrier", "label": "positive_high_energy"}
+{"text": "I turned small wins into big victories", "label": "positive_high_energy"}
+{"text": "I stayed ahead of the curve", "label": "positive_high_energy"}
+{"text": "I hustled hard and got results", "label": "positive_high_energy"}
+{"text": "I made lightning fast progress", "label": "positive_high_energy"}
+{"text": "I raised my game effortlessly", "label": "positive_high_energy"}
+{"text": "I stayed low key and relaxed", "label": "positive_low_energy"}
+{"text": "I let the dust settle around me", "label": "positive_low_energy"}
+{"text": "I drifted through the afternoon calmly", "label": "positive_low_energy"}
+{"text": "I kept my stress levels at zero", "label": "positive_low_energy"}
+{"text": "I floated through conversations", "label": "positive_low_energy"}
+{"text": "I chose the gentle route every time", "label": "positive_low_energy"}
+{"text": "I paced myself with ease", "label": "positive_low_energy"}
+{"text": "I stayed unhurried and smooth", "label": "positive_low_energy"}
+{"text": "I kept everything lighthearted", "label": "positive_low_energy"}
+{"text": "I kept the mood soft all day", "label": "positive_low_energy"}
+{"text": "I didn\u2019t force anything at all", "label": "positive_low_energy"}
+{"text": "I rested into the rhythm of the day", "label": "positive_low_energy"}
+{"text": "I stayed unshaken by minor issues", "label": "positive_low_energy"}
+{"text": "I kept myself in a mellow zone", "label": "positive_low_energy"}
+{"text": "I fell behind almost instantly", "label": "negative_low_energy"}
+{"text": "I stalled at every step", "label": "negative_low_energy"}
+{"text": "I fizzled out halfway through", "label": "negative_low_energy"}
+{"text": "I crawled through every task", "label": "negative_low_energy"}
+{"text": "I had zero fuel in the tank", "label": "negative_low_energy"}
+{"text": "I dragged mentally and physically", "label": "negative_low_energy"}
+{"text": "I let everything slow me down", "label": "negative_low_energy"}
+{"text": "I couldn\u2019t get myself moving", "label": "negative_low_energy"}
+{"text": "I lost momentum at every turn", "label": "negative_low_energy"}
+{"text": "I felt like I was underwater all day", "label": "negative_low_energy"}
+{"text": "I barely made a dent in my work", "label": "negative_low_energy"}
+{"text": "I kept slipping backward", "label": "negative_low_energy"}
+{"text": "I sank into a slump immediately", "label": "negative_low_energy"}
+{"text": "I couldn\u2019t lift my energy at all", "label": "negative_low_energy"}
+{"text": "I felt swallowed by pressure again", "label": "negative_high_stress"}
+{"text": "I stood in the middle of chaos", "label": "negative_high_stress"}
+{"text": "I felt like problems were piling sky high", "label": "negative_high_stress"}
+{"text": "I faced trouble at every corner", "label": "negative_high_stress"}
+{"text": "I fought fires all day long", "label": "negative_high_stress"}
+{"text": "I felt danger looming everywhere", "label": "negative_high_stress"}
+{"text": "I kept running into roadblocks", "label": "negative_high_stress"}
+{"text": "I stood on shaky ground repeatedly", "label": "negative_high_stress"}
+{"text": "I dealt with one crisis after another", "label": "negative_high_stress"}
+{"text": "I felt cornered by circumstances", "label": "negative_high_stress"}
+{"text": "I felt tension pressing in on all sides", "label": "negative_high_stress"}
+{"text": "I walked right into trouble again", "label": "negative_high_stress"}
+{"text": "I kept bracing for the next hit", "label": "negative_high_stress"}
+{"text": "I weathered a storm of problems", "label": "negative_high_stress"}
+{"text": "I worried about things spiraling out of control", "label": "anxious"}
+{"text": "I checked every detail out of fear", "label": "anxious"}
+{"text": "I felt nervous energy humming inside me", "label": "anxious"}
+{"text": "I paced around expecting bad news", "label": "anxious"}
+{"text": "I dreaded the next mistake", "label": "anxious"}
+{"text": "I feared slipping up constantly", "label": "anxious"}
+{"text": "I jumped at every sound", "label": "anxious"}
+{"text": "I felt unsettled the whole time", "label": "anxious"}
+{"text": "I waited anxiously for something to go wrong", "label": "anxious"}
+{"text": "I felt on high alert all day", "label": "anxious"}
+{"text": "I worried that I\u2019d missed something important", "label": "anxious"}
+{"text": "I kept imagining everything collapsing", "label": "anxious"}
+{"text": "I stayed tense with anticipation", "label": "anxious"}
+{"text": "I felt fear creeping up slowly", "label": "anxious"}
+{"text": "I kept my reactions neutral", "label": "neutral"}
+{"text": "I stayed balanced without choosing sides", "label": "neutral"}
+{"text": "I kept an even perspective", "label": "neutral"}
+{"text": "I tried to remain impartial", "label": "neutral"}
+{"text": "I approached decisions with no emotion", "label": "neutral"}
+{"text": "I moved through tasks with quiet focus", "label": "neutral"}
+{"text": "I didn\u2019t lean positive or negative", "label": "neutral"}
+{"text": "I went through the routine plainly", "label": "neutral"}
+{"text": "I stayed steady without highs or lows", "label": "neutral"}
+{"text": "I treated everything evenly", "label": "neutral"}
+{"text": "I carried myself with neutrality", "label": "neutral"}
+{"text": "I kept my mind centered on the basics", "label": "neutral"}
+{"text": "I made choices without strong feelings", "label": "neutral"}
+{"text": "I held a balanced view the whole day", "label": "neutral"}
+{"text": "I powered forward like nothing could stop me", "label": "positive_high_energy"}
+{"text": "I surged through the day with energy", "label": "positive_high_energy"}
+{"text": "I jumped into tasks full force", "label": "positive_high_energy"}
+{"text": "I sped through everything like a machine", "label": "positive_high_energy"}
+{"text": "I launched straight into action", "label": "positive_high_energy"}
+{"text": "I took every opportunity head-on", "label": "positive_high_energy"}
+{"text": "I mastered each task as it came", "label": "positive_high_energy"}
+{"text": "I rose above all challenges quickly", "label": "positive_high_energy"}
+{"text": "I charged through the workload fearlessly", "label": "positive_high_energy"}
+{"text": "I dominated my responsibilities today", "label": "positive_high_energy"}
+{"text": "I aimed high and reached my mark", "label": "positive_high_energy"}
+{"text": "I made bold choices without hesitation", "label": "positive_high_energy"}
+{"text": "I broke barriers without slowing down", "label": "positive_high_energy"}
+{"text": "I handled everything with unstoppable momentum", "label": "positive_high_energy"}
+{"text": "I drifted calmly from task to task", "label": "positive_low_energy"}
+{"text": "I moved gently through the day", "label": "positive_low_energy"}
+{"text": "I softened my pace on purpose", "label": "positive_low_energy"}
+{"text": "I kept my mood totally light", "label": "positive_low_energy"}
+{"text": "I let the world move around me quietly", "label": "positive_low_energy"}
+{"text": "I followed a quiet rhythm all morning", "label": "positive_low_energy"}
+{"text": "I sat back and relaxed into the flow", "label": "positive_low_energy"}
+{"text": "I allowed myself to remain serene", "label": "positive_low_energy"}
+{"text": "I kept things smooth and effortless", "label": "positive_low_energy"}
+{"text": "I felt breezy and unbothered", "label": "positive_low_energy"}
+{"text": "I floated mentally without pressure", "label": "positive_low_energy"}
+{"text": "I let discomfort roll right off me", "label": "positive_low_energy"}
+{"text": "I kept the energy soft and peaceful", "label": "positive_low_energy"}
+{"text": "I maintained an easygoing attitude", "label": "positive_low_energy"}
+{"text": "I barely made progress and dragged all day", "label": "negative_low_energy"}
+{"text": "I couldn\u2019t pick up any momentum", "label": "negative_low_energy"}
+{"text": "I faded into the background without energy", "label": "negative_low_energy"}
+{"text": "I crawled mentally through the afternoon", "label": "negative_low_energy"}
+{"text": "I struggled to move the needle at all", "label": "negative_low_energy"}
+{"text": "I slowed down until I nearly stopped", "label": "negative_low_energy"}
+{"text": "I lost motivation in minutes", "label": "negative_low_energy"}
+{"text": "I sank into low energy every hour", "label": "negative_low_energy"}
+{"text": "I couldn\u2019t get myself going no matter what", "label": "negative_low_energy"}
+{"text": "I slipped into another slump", "label": "negative_low_energy"}
+{"text": "I felt like a weight dragging behind", "label": "negative_low_energy"}
+{"text": "I barely stayed afloat", "label": "negative_low_energy"}
+{"text": "I stalled repeatedly throughout the day", "label": "negative_low_energy"}
+{"text": "I moved like I had no fuel left", "label": "negative_low_energy"}
