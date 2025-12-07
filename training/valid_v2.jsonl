@@ -1,0 +1,113 @@
+{"text": "I feel like I'm running on fumes today, barely awake.", "label": "negative_low_energy"}
+{"text": "Mind is foggy and I can't get myself moving at all.", "label": "negative_low_energy"}
+{"text": "Whole day feels like I'm underwater, super sluggish.", "label": "negative_low_energy"}
+{"text": "Energy tank is empty today, not doing anything extra.", "label": "negative_low_energy"}
+{"text": "Body's here but mentally I'm half-asleep lol.", "label": "negative_low_energy"}
+{"text": "Just dragging myself around today, no spark at all.", "label": "negative_low_energy"}
+{"text": "Keeps feeling like I'm drifting off mid-thought.", "label": "negative_low_energy"}
+{"text": "Everything feels slow-motion today.", "label": "negative_low_energy"}
+{"text": "Can’t shake this heavy, tired vibe all day.", "label": "negative_low_energy"}
+{"text": "No drive today whatsoever, I'm just blank.", "label": "negative_low_energy"}
+
+{"text": "Stress is hitting from every direction right now.", "label": "negative_high_stress"}
+{"text": "So many tasks stacking up and I can't catch a break.", "label": "negative_high_stress"}
+{"text": "Feels like I'm juggling fire today, everything urgent.", "label": "negative_high_stress"}
+{"text": "Every small thing is turning into a crisis, bruh.", "label": "negative_high_stress"}
+{"text": "My whole schedule exploded today and now I'm drowning.", "label": "negative_high_stress"}
+{"text": "Deadlines are slamming me nonstop and my brain's rattling.", "label": "negative_high_stress"}
+{"text": "Tension in my shoulders is crazy rn, too much going on.", "label": "negative_high_stress"}
+{"text": "Feels like there's a weight sitting on my chest all day.", "label": "negative_high_stress"}
+{"text": "Everything's moving too fast and I can't keep pace.", "label": "negative_high_stress"}
+{"text": "Feels like pressure is cranked to max today.", "label": "negative_high_stress"}
+
+{"text": "Got that buzzing excitement where I can't sit still.", "label": "positive_high_energy"}
+{"text": "Feeling sharp and unstoppable, everything's flowing.", "label": "positive_high_energy"}
+{"text": "I'm locked in today, smashing through everything.", "label": "positive_high_energy"}
+{"text": "Brain is firing on all cylinders, let's gooo.", "label": "positive_high_energy"}
+{"text": "Moving so fast today, it's like I'm ahead of time.", "label": "positive_high_energy"}
+{"text": "Energy is wild today, getting everything done effortlessly.", "label": "positive_high_energy"}
+{"text": "I'm dialed in and riding momentum hard today.", "label": "positive_high_energy"}
+{"text": "Everything is clicking perfectly, insane productivity.", "label": "positive_high_energy"}
+{"text": "On a different speed level today, no slowing down.", "label": "positive_high_energy"}
+{"text": "I'm wired with good energy and tearing through my list.", "label": "positive_high_energy"}
+
+{"text": "Soft, cozy vibe today, just taking things slowly.", "label": "positive_low_energy"}
+{"text": "Calm mood, not rushing anything and it feels nice.", "label": "positive_low_energy"}
+{"text": "Easygoing day, just letting things flow naturally.", "label": "positive_low_energy"}
+{"text": "Pretty chill today, nothing stressing me out.", "label": "positive_low_energy"}
+{"text": "Low-key peaceful mood, keeping everything light.", "label": "positive_low_energy"}
+{"text": "Slow but comfortable pace today, no complaints.", "label": "positive_low_energy"}
+{"text": "Feeling relaxed and steady, nothing intense.", "label": "positive_low_energy"}
+{"text": "Gentle day so far, easy to breathe for once.", "label": "positive_low_energy"}
+{"text": "Just calm energy today, staying grounded.", "label": "positive_low_energy"}
+{"text": "Smooth vibes all day, quietly productive.", "label": "positive_low_energy"}
+
+{"text": "Brain is racing with thoughts I can't control.", "label": "anxious"}
+{"text": "Everything feels risky even when nothing's wrong.", "label": "anxious"}
+{"text": "Overthinking tiny stuff again and it's exhausting.", "label": "anxious"}
+{"text": "My mind keeps looping worst-case scenarios.", "label": "anxious"}
+{"text": "Constant jittery feeling, can't fully relax.", "label": "anxious"}
+{"text": "Every sound is making me jumpy today.", "label": "anxious"}
+{"text": "Heart keeps spiking randomly, idk why.", "label": "anxious"}
+{"text": "Nervous for no reason, stomach feels tight.", "label": "anxious"}
+{"text": "Thoughts are spiraling and I can't stop them.", "label": "anxious"}
+{"text": "Feeling uneasy like something's wrong even though it's not.", "label": "anxious"}
+
+{"text": "Pretty ordinary day, just moving through stuff.", "label": "neutral"}
+{"text": "Nothing big happening, same routine as usual.", "label": "neutral"}
+{"text": "Not good, not bad — just middle of the road.", "label": "neutral"}
+{"text": "Standard day so far, nothing surprising.", "label": "neutral"}
+{"text": "Just going through my checklist like normal.", "label": "neutral"}
+{"text": "Everything feels pretty typical today.", "label": "neutral"}
+{"text": "Just another plain day, nothing worth noting.", "label": "neutral"}
+{"text": "Baseline mood today, nothing extreme.", "label": "neutral"}
+{"text": "Routine stuff mostly, nothing out of the ordinary.", "label": "neutral"}
+{"text": "Honestly just cruising through a normal day.", "label": "neutral"}
+
+{"text": "Hard to even get out of bed this morning.", "label": "negative_low_energy"}
+{"text": "I'm wiped before the day even started lol.", "label": "negative_low_energy"}
+{"text": "Completely drained, can't find any momentum.", "label": "negative_low_energy"}
+
+{"text": "Stress headache kicking in from everything piling up.", "label": "negative_high_stress"}
+{"text": "Running behind on everything and it's stressing me out bad.", "label": "negative_high_stress"}
+{"text": "Feels like I'm being pulled in five directions at once.", "label": "negative_high_stress"}
+
+{"text": "Feeling hyped for no reason, energy is crazy.", "label": "positive_high_energy"}
+{"text": "Absolutely flying through tasks today.", "label": "positive_high_energy"}
+{"text": "Momentum is wild today, can't stop even if I tried.", "label": "positive_high_energy"}
+
+{"text": "Nice slow morning, easing into everything gently.", "label": "positive_low_energy"}
+{"text": "Comfortable pace today, mentally smooth.", "label": "positive_low_energy"}
+{"text": "Just vibing softly, nothing loud today.", "label": "positive_low_energy"}
+
+{"text": "Thoughts are bouncing everywhere and won't settle.", "label": "anxious"}
+{"text": "Feeling on edge like something's about to happen.", "label": "anxious"}
+{"text": "Brain is buzzing in a not-good way today.", "label": "anxious"}
+
+{"text": "Pretty typical afternoon, nothing crazy.", "label": "neutral"}
+{"text": "Just existing today, nothing stands out.", "label": "neutral"}
+{"text": "Middle-of-the-road day, nothing new.", "label": "neutral"}
+
+{"text": "My limbs feel heavy, like I'm moving through syrup.", "label": "negative_low_energy"}
+{"text": "Barely staying awake, everything feels distant.", "label": "negative_low_energy"}
+{"text": "I'm mentally offline today, running super low.", "label": "negative_low_energy"}
+
+{"text": "Stress is stacking so fast I can't catch up.", "label": "negative_high_stress"}
+{"text": "Everything feels time-sensitive and overwhelming.", "label": "negative_high_stress"}
+{"text": "My whole day is just fires to put out lol.", "label": "negative_high_stress"}
+
+{"text": "Got this wild rush of motivation, love it tbh.", "label": "positive_high_energy"}
+{"text": "I'm genuinely thriving today, energy is elite.", "label": "positive_high_energy"}
+{"text": "Feeling unstoppable, no barriers today.", "label": "positive_high_energy"}
+
+{"text": "Really mellow mood, breathing easy today.", "label": "positive_low_energy"}
+{"text": "Gentle motivation today, nothing pushing too hard.", "label": "positive_low_energy"}
+{"text": "Just a chill, steady vibe all morning.", "label": "positive_low_energy"}
+
+{"text": "My nerves won't calm down, everything feels risky.", "label": "anxious"}
+{"text": "Feels like I'm forgetting something important, making me restless.", "label": "anxious"}
+{"text": "I'm stuck in my head replaying tiny things.", "label": "anxious"}
+
+{"text": "Kind of an average day, nothing stands out so far.", "label": "neutral"}
+{"text": "Just rolling with the usual routine today.", "label": "neutral"}
+{"text": "Regular day, same pace as always.", "label": "neutral"}

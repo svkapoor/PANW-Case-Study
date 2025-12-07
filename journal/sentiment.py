@@ -1,7 +1,14 @@
 from transformers import pipeline
 
+import os
+
+# Get the absolute path to the current script's directory
+current_dir = os.path.dirname(os.path.abspath(__file__))
+# Construct path to the model relative to this script
+model_path = os.path.join(current_dir, "..", "training", "emotion_model")
+
 emotion_analyzer = pipeline("text-classification",
-                    model="SamLowe/roberta-base-go_emotions",
+                    model=model_path,
                     return_all_scores=False)
 
 def analyze_sentiment(text):
