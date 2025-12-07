@@ -35,7 +35,7 @@ def save_entry(entry_dict):
         json.dump(entries, f, indent=2)
 
 """
-    clears entries.json
+    Clears entries.json
 """
 def clear_entries():
     with open(DATA_PATH, "w") as f:

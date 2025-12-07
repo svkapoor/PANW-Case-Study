@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 
+# Data class for storage of entries
 @dataclass
 class JournalEntry:
     text: str

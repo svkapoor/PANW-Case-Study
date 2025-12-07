@@ -53,6 +53,7 @@ def main():
             print(f"Tag: {entry['tag']}")
             print("")
     
+    # Clear all entries in entries.json
     if command == "clear":
         clear_entries()
         print("Cleared all entries.")
