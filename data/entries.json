@@ -1,1 +1,47 @@
-{}
+[
+  {
+    "text": "yo whats up man",
+    "tag": "positive_high_energy",
+    "date": "2025-12-07 13:56:01"
+  },
+  {
+    "text": "yo whats up man",
+    "tag": "positive_high_energy",
+    "date": "2025-12-07 13:59:12"
+  },
+  {
+    "text": "im so mad bro",
+    "tag": "negative_low_energy",
+    "date": "2025-12-07 14:00:16"
+  },
+  {
+    "text": "im so mad bro",
+    "tag": "negative_low_energy",
+    "date": "2025-12-07 14:04:06"
+  },
+  {
+    "text": "im so mad bro",
+    "tag": "negative_low_energy",
+    "date": "2025-12-07 14:04:14"
+  },
+  {
+    "text": "im super happy",
+    "tag": "positive_high_energy",
+    "date": "2025-12-07 14:04:55"
+  },
+  {
+    "text": "this workloads is crushing me",
+    "tag": "negative_high_stress",
+    "date": "2025-12-07 14:05:43"
+  },
+  {
+    "text": "im crushing this workload",
+    "tag": "negative_high_stress",
+    "date": "2025-12-07 14:05:56"
+  },
+  {
+    "text": "im crushin this workload",
+    "tag": "negative_high_stress",
+    "date": "2025-12-07 14:07:38"
+  }
+]
