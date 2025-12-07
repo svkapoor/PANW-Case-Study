@@ -1,1 +1,28 @@
-{}
+[
+  {
+<<<<<<< HEAD
+    "text": "this is lowky a pain, i can't do this anymore",
+    "tag": "negative_high_stress",
+    "date": "2025-12-06 19:13:18"
+=======
+    "text": "im super happy",
+    "tag": "positive_low_energy",
+    "date": "2025-12-07 14:04:56"
+  },
+  {
+    "text": "this workload is crushing me",
+    "tag": "negative_high_stress",
+    "date": "2025-12-07 14:06:18"
+  },
+  {
+    "text": "I am crushing this workload",
+    "tag": "negative_high_stress",
+    "date": "2025-12-07 14:06:33"
+  },
+  {
+    "text": "I am crushin this workload",
+    "tag": "positive_high_energy",
+    "date": "2025-12-07 14:06:54"
+>>>>>>> 8dfbca0c0712c60b2807dbc5f98639fb3659321c
+  }
+]
