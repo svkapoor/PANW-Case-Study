@@ -16,9 +16,9 @@ I evaluated multiple sentiment engines before settling on the current solution:
 
 - **VADER**: extremely fast but produced shallow labels that missed nuance, so accuracy was not acceptable.
 - **Gemini**: highly accurate, but pricing and rate limits result in low scalibility inside a journaling CLI.
-- **DistilBERT**: a distilled version of the BERT model resulting in a faster inference than the final model but accuracy lagged with idioms and emoji-heavy text.
+- **DistilBERT**: a distilled version of the BERT model (a pretrained language understanding module) resulting in a faster inference than the final model but accuracy lagged with idioms and emoji-heavy text.
 
-The winning approach fine-tunes **RoBERTa**, a transformer that improves on BERT (a pretrained language understanding module) by training longer on a much larger corpus, removing the next-sentence prediction objective, and applying dynamic masking so it generalizes better. After labeling and cleaning 4,000+ examples across slang, idioms, and edge emotions, the RoBERTa variant delivered the most consistent performance end-to-end.
+The winning approach fine-tunes **RoBERTa**, a more accurate and better version of BERT. I then used LLMs to create 4000+ edge case and idiomatic statements filled with slang to finetune the RoBERTa model to produce better accuracy with difficult statements.
 
 ## Setup & Installation
 
@@ -39,7 +39,7 @@ The winning approach fine-tunes **RoBERTa**, a transformer that improves on BERT
 Run the application using `main.py` in the root directory.
 
 ### 1. Add a Journal Entry
-Type your thoughts, and the AI will analyze and tag them.
+Type your thoughts, and the model will analyze and tag them.
 ```bash
 python main.py add "I am crushing this project!"
 ```
