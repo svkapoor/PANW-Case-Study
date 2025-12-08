@@ -63,7 +63,7 @@ Type your thoughts, and the model will analyze and tag them.
 ```bash
 python main.py add "I am crushing this project!"
 ```
-*If this command does not work please replace python with python3*
+*If this command does not work please replace python with python3. Do this for all subsequent commands as well.*
 
 ### 2. View Summary
 View your last 3 journal entries and their emotional tags.
