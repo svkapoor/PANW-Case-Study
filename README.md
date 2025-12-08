@@ -43,10 +43,25 @@ To ensure the reliability and correctness of the AI-generated components, the fo
 1.  **Clone the repository**:
     ```bash
     git clone https://github.com/svkapoor/PANW-Case-Study.git
+    ```
+
+2.  **Enter the project directory**:
+    ```bash
     cd PANW-Case-Study
     ```
 
-2.  **Install dependencies**:
+3.  **Create a virtual environment**:
+    ```bash
+    python3 -m venv .venv
+    ```
+
+4.  **Activate the virtual environment**:
+    ```bash
+    source .venv/bin/activate
+    ```
+    *On Windows use `python` and `.venv\Scripts\activate`.*
+
+5.  **Install dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
