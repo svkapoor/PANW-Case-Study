@@ -20,6 +20,24 @@ I evaluated multiple sentiment engines before settling on the current solution:
 
 The winning approach fine-tunes **RoBERTa**, a more accurate and better version of BERT. I then used LLMs to create 4000+ edge case and idiomatic statements filled with slang to finetune the RoBERTa model to produce better accuracy with difficult statements.
 
+
+## Methodology
+### AI Disclosure
+This project utilized LLMs to accelerate the development lifecycle. The AI was leveraged for the following specific tasks:
+
+- **Code Generation:** Aid in developing skeleton code for the SentimentAnalyzer class, training scripts, and test case format.
+- **Data Curation:** Generating synthetic training data to enhance the model's understanding of nuanced language and edge cases.
+- **Debugging & Refactoring:** identifying logic errors in the training loop and optimizing the transformers library usage.
+- **Documentation:** Generating documentation for the project.
+
+### Verification of AI Output
+To ensure the reliability and correctness of the AI-generated components, the following rigorous verification process was applied:
+
+- **Manual Code Review:** All AI-suggested code was manually reviewed for logic and adherence to Python best practices before being committed to the codebase.
+- **Automated Testing:** A comprehensive test suite was developed to validate functionality:
+    - **Unit Tests:** test_sentiment.py verifies the model loader and prediction consistency.
+    - **Integration Tests:** test_end_to_end.py confirms that the full data pipeline operates correctly from input to sentiment classification.
+
 ## Setup & Installation
 
 1.  **Clone the repository**:
