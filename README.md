@@ -38,6 +38,8 @@ The winning approach fine-tunes **RoBERTa**, a more accurate and better version 
 
 Run the application using `main.py` in the root directory.
 
+On first run, the model must load from HuggingFace so that may take a minute or two. Subsequent runs will be much faster.
+
 ### 1. Add a Journal Entry
 Type your thoughts, and the model will analyze and tag them.
 ```bash
