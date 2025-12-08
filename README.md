@@ -90,9 +90,10 @@ The intelligence comes from `svkapoor/5EmoteModelRoBERTa`, the model fine-tuned 
 
 -   **Base Model**: `SamLowe/roberta-base-go_emotions`
 -   **Training Script**: `training/main.ipynb`
--   **Methodology**: The model underwent a rigorous two-stage fine-tuning process to maximize adaptability and nuance:
+-   **Methodology**: The model underwent a rigorous three-stage fine-tuning process to maximize adaptability and nuance:
     1.  **Stage 1 - Slang & Emoji Adaptation**: The base model (`SamLowe/roberta-base-go_emotions`) was first fine-tuned on `train.jsonl` and `train_v2.jsonl`. This stage focused on teaching the model modern internet slang, emoji context, and general sentiment patterns.
     2.  **Stage 2 - Idiomatic Refinement**: The resulting model was then fine-tuned *again* using `idioms.jsonl` and `train_updated.jsonl`. This critical step refined the model's ability to understand idiomatic expressions (e.g., distinguishing "I'm on thin ice" from "I'm cool as ice") and corrected varied labels (e.g. shifting `anxious` to `negative_low_energy`).
+    3.  **Stage 3 - Neutral Greetings and Statements**: The final stage fine tuned the model on greetings_train.jsonl and greetings_validation.jsonl, a dataset of informal greetings, slang based openers, and short neutral phrases like “what’s up” and “hey man”. This ensured the model correctly classifies everyday greetings as neutral and avoids assigning unintended emotional labels.
 
 -   **Data Sources**: located in `training/data/`
     -   `train.jsonl` / `train_v2.jsonl`: Synthetic slang and emoji-rich data.
