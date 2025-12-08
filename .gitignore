@@ -41,6 +41,9 @@ training/emotion_model.zip
 training/idiom_emotion_model/
 training/idiom_emotion_model.zip
 training/4emotion_model/
+training/finetuned_model/
+training/fine_tuned_model.zip
+
 # Virtual Environments
 .venv/
 venv/
