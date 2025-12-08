@@ -18,7 +18,7 @@ I evaluated multiple sentiment engines before settling on the current solution:
 - **Gemini**: highly accurate, but pricing and rate limits result in low scalibility inside a journaling CLI.
 - **DistilBERT**: a distilled version of the BERT model (a pretrained language understanding module) resulting in a faster inference than the final model but accuracy lagged with idioms and emoji-heavy text.
 
-The winning approach fine-tunes **RoBERTa**, a more accurate and better version of BERT. I then used LLMs to create 4000+ edge case and idiomatic statements filled with slang to finetune the RoBERTa model to produce better accuracy with difficult statements.
+The winning approach fine-tunes **RoBERTa**, a more accurate and better version of BERT. I then used LLMs to create 4000+ edge cases, greetings, and idiomatic statements filled with slang to finetune the RoBERTa model to produce better accuracy with difficult statements.
 
 
 ## Methodology
