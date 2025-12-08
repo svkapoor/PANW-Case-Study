@@ -63,7 +63,7 @@ Type your thoughts, and the model will analyze and tag them.
 ```bash
 python main.py add "I am crushing this project!"
 ```
-*Output: Saved entry with tag: positive_high_energy*
+*If this command does not work please replace python with python3*
 
 ### 2. View Summary
 View your last 3 journal entries and their emotional tags.
